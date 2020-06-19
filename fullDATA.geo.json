@@ -1,0 +1,3055 @@
+{
+   "type": "FeatureCollection",
+   "features": [
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 9.501785,56.26392 ]
+    },
+    "properties": {
+    "FIELD1":0,
+    "Country":"Denmark",
+    "Region":"Western Europe",
+    "Hemisphere":"north",
+    "HappinessScore":7.526,
+    "HDI":928,
+    "GDP_PerCapita":53.57899999999999,
+    "Beer_PerCapita":224,
+    "Spirit_PerCapita":81,
+    "Wine_PerCapita":278,
+    "Total_Consumption":583,
+    "Both_Sexes":74.4,
+    "Male":85,
+    "Female":64.2,
+    "Code_x":"DNK",
+    "GDP_per_capita":45991.224780000004
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 8.227511999999999,46.818188 ]
+    },
+    "properties": {
+    "FIELD1":1,
+    "Country":"Switzerland",
+    "Region":"Western Europe",
+    "Hemisphere":"north",
+    "HappinessScore":7.5089999999999995,
+    "HDI":943,
+    "GDP_PerCapita":79.866,
+    "Beer_PerCapita":185,
+    "Spirit_PerCapita":100,
+    "Wine_PerCapita":280,
+    "Total_Consumption":565,
+    "Both_Sexes":81.2,
+    "Male":89.6,
+    "Female":73,
+    "Code_x":"CHE",
+    "GDP_per_capita":57421.5485
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -19.020835,64.96305100000001 ]
+    },
+    "properties": {
+    "FIELD1":2,
+    "Country":"Iceland",
+    "Region":"Western Europe",
+    "Hemisphere":"north",
+    "HappinessScore":7.501,
+    "HDI":933,
+    "GDP_PerCapita":60.53,
+    "Beer_PerCapita":233,
+    "Spirit_PerCapita":61,
+    "Wine_PerCapita":78,
+    "Total_Consumption":372,
+    "Both_Sexes":71.5,
+    "Male":82.6,
+    "Female":60.3,
+    "Code_x":"ISL",
+    "GDP_per_capita":45630.93817
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 8.468946,60.472024 ]
+    },
+    "properties": {
+    "FIELD1":3,
+    "Country":"Norway",
+    "Region":"Western Europe",
+    "Hemisphere":"north",
+    "HappinessScore":7.497999999999999,
+    "HDI":951,
+    "GDP_PerCapita":70.89,
+    "Beer_PerCapita":169,
+    "Spirit_PerCapita":71,
+    "Wine_PerCapita":129,
+    "Total_Consumption":369,
+    "Both_Sexes":79,
+    "Male":88,
+    "Female":69.8,
+    "Code_x":"NOR",
+    "GDP_per_capita":64159.54425
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 25.748151,61.92411 ]
+    },
+    "properties": {
+    "FIELD1":4,
+    "Country":"Finland",
+    "Region":"Western Europe",
+    "Hemisphere":"north",
+    "HappinessScore":7.412999999999999,
+    "HDI":918,
+    "GDP_PerCapita":43.433,
+    "Beer_PerCapita":263,
+    "Spirit_PerCapita":133,
+    "Wine_PerCapita":97,
+    "Total_Consumption":493,
+    "Both_Sexes":72.5,
+    "Male":83.8,
+    "Female":61.7,
+    "Code_x":"FIN",
+    "GDP_per_capita":39659.16604
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -106.34677099999999,56.130366 ]
+    },
+    "properties": {
+    "FIELD1":5,
+    "Country":"Canada",
+    "Region":"North America",
+    "Hemisphere":"north",
+    "HappinessScore":7.404,
+    "HDI":922,
+    "GDP_PerCapita":42.349,
+    "Beer_PerCapita":240,
+    "Spirit_PerCapita":122,
+    "Wine_PerCapita":100,
+    "Total_Consumption":462,
+    "Both_Sexes":64.5,
+    "Male":77.3,
+    "Female":52.1,
+    "Code_x":"CAN",
+    "GDP_per_capita":43238.2596
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 5.291266,52.132633 ]
+    },
+    "properties": {
+    "FIELD1":6,
+    "Country":"Netherlands",
+    "Region":"Western Europe",
+    "Hemisphere":"north",
+    "HappinessScore":7.3389999999999995,
+    "HDI":928,
+    "GDP_PerCapita":45.638000000000005,
+    "Beer_PerCapita":251,
+    "Spirit_PerCapita":88,
+    "Wine_PerCapita":190,
+    "Total_Consumption":529,
+    "Both_Sexes":72.1,
+    "Male":83.3,
+    "Female":61.2,
+    "Code_x":"NLD",
+    "GDP_per_capita":47269.63295
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 174.88597099999998,-40.900557 ]
+    },
+    "properties": {
+    "FIELD1":7,
+    "Country":"New Zealand",
+    "Region":"Australia and New Zealand",
+    "Hemisphere":"south",
+    "HappinessScore":7.334,
+    "HDI":915,
+    "GDP_PerCapita":40.332,
+    "Beer_PerCapita":203,
+    "Spirit_PerCapita":79,
+    "Wine_PerCapita":175,
+    "Total_Consumption":457,
+    "Both_Sexes":74.6,
+    "Male":85.1,
+    "Female":64.8,
+    "Code_x":"NZL",
+    "GDP_per_capita":35776.57173
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 133.775136,-25.274398 ]
+    },
+    "properties": {
+    "FIELD1":8,
+    "Country":"Australia",
+    "Region":"Australia and New Zealand",
+    "Hemisphere":"south",
+    "HappinessScore":7.313,
+    "HDI":938,
+    "GDP_PerCapita":49.897,
+    "Beer_PerCapita":261,
+    "Spirit_PerCapita":72,
+    "Wine_PerCapita":212,
+    "Total_Consumption":545,
+    "Both_Sexes":79.4,
+    "Male":88.3,
+    "Female":70.6,
+    "Code_x":"AUS",
+    "GDP_per_capita":44493.48089
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 18.643501,60.128161 ]
+    },
+    "properties": {
+    "FIELD1":9,
+    "Country":"Sweden",
+    "Region":"Western Europe",
+    "Hemisphere":"north",
+    "HappinessScore":7.291,
+    "HDI":932,
+    "GDP_PerCapita":51.845,
+    "Beer_PerCapita":152,
+    "Spirit_PerCapita":60,
+    "Wine_PerCapita":186,
+    "Total_Consumption":398,
+    "Both_Sexes":73,
+    "Male":83.9,
+    "Female":62.2,
+    "Code_x":"SWE",
+    "GDP_per_capita":46568.17715
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 34.851612,31.046051000000002 ]
+    },
+    "properties": {
+    "FIELD1":10,
+    "Country":"Israel",
+    "Region":"Middle East and Northern Africa",
+    "Hemisphere":"north",
+    "HappinessScore":7.267,
+    "HDI":902,
+    "GDP_PerCapita":37.181,
+    "Beer_PerCapita":63,
+    "Spirit_PerCapita":69,
+    "Wine_PerCapita":9,
+    "Total_Consumption":141,
+    "Both_Sexes":55,
+    "Male":68.9,
+    "Female":41.6,
+    "Code_x":"ISR",
+    "GDP_per_capita":32688.4081
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 14.550072,47.516231 ]
+    },
+    "properties": {
+    "FIELD1":11,
+    "Country":"Austria",
+    "Region":"Western Europe",
+    "Hemisphere":"north",
+    "HappinessScore":7.119,
+    "HDI":906,
+    "GDP_PerCapita":44.731,
+    "Beer_PerCapita":279,
+    "Spirit_PerCapita":75,
+    "Wine_PerCapita":191,
+    "Total_Consumption":545,
+    "Both_Sexes":78.1,
+    "Male":87.7,
+    "Female":68.9,
+    "Code_x":"AUT",
+    "GDP_per_capita":44464.350269999995
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -95.712891,37.09024 ]
+    },
+    "properties": {
+    "FIELD1":12,
+    "Country":"United States",
+    "Region":"North America",
+    "Hemisphere":"north",
+    "HappinessScore":7.104,
+    "HDI":922,
+    "GDP_PerCapita":57.589,
+    "Beer_PerCapita":249,
+    "Spirit_PerCapita":158,
+    "Wine_PerCapita":84,
+    "Total_Consumption":491,
+    "Both_Sexes":71.7,
+    "Male":83,
+    "Female":60.7,
+    "Code_x":"USA",
+    "GDP_per_capita":53399.359169999996
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -83.753428,9.748917 ]
+    },
+    "properties": {
+    "FIELD1":13,
+    "Country":"Costa Rica",
+    "Region":"Latin America and Caribbean",
+    "Hemisphere":"north",
+    "HappinessScore":7.087000000000001,
+    "HDI":791,
+    "GDP_PerCapita":11.732999999999999,
+    "Beer_PerCapita":149,
+    "Spirit_PerCapita":87,
+    "Wine_PerCapita":11,
+    "Total_Consumption":247,
+    "Both_Sexes":36.6,
+    "Male":49.5,
+    "Female":23.9,
+    "Code_x":"CRI",
+    "GDP_per_capita":15195.001409999999
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 10.451526,51.165690999999995 ]
+    },
+    "properties": {
+    "FIELD1":14,
+    "Country":"Germany",
+    "Region":"Western Europe",
+    "Hemisphere":"north",
+    "HappinessScore":6.994,
+    "HDI":934,
+    "GDP_PerCapita":42.233000000000004,
+    "Beer_PerCapita":346,
+    "Spirit_PerCapita":117,
+    "Wine_PerCapita":175,
+    "Total_Consumption":638,
+    "Both_Sexes":79.4,
+    "Male":88.5,
+    "Female":70.6,
+    "Code_x":"DEU",
+    "GDP_per_capita":44431.82284
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -51.92528,-14.235004 ]
+    },
+    "properties": {
+    "FIELD1":15,
+    "Country":"Brazil",
+    "Region":"Latin America and Caribbean",
+    "Hemisphere":"both",
+    "HappinessScore":6.952000000000001,
+    "HDI":758,
+    "GDP_PerCapita":8.639,
+    "Beer_PerCapita":245,
+    "Spirit_PerCapita":145,
+    "Wine_PerCapita":16,
+    "Total_Consumption":406,
+    "Both_Sexes":40.3,
+    "Male":54,
+    "Female":27.3,
+    "Code_x":"BRA",
+    "GDP_per_capita":14077.12141
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 4.469936,50.503887 ]
+    },
+    "properties": {
+    "FIELD1":16,
+    "Country":"Belgium",
+    "Region":"Western Europe",
+    "Hemisphere":"north",
+    "HappinessScore":6.928999999999999,
+    "HDI":915,
+    "GDP_PerCapita":41.261,
+    "Beer_PerCapita":295,
+    "Spirit_PerCapita":84,
+    "Wine_PerCapita":212,
+    "Total_Consumption":591,
+    "Both_Sexes":76.5,
+    "Male":86.6,
+    "Female":66.8,
+    "Code_x":"BEL",
+    "GDP_per_capita":42083.6443
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -8.243889999999999,53.41291 ]
+    },
+    "properties": {
+    "FIELD1":17,
+    "Country":"Ireland",
+    "Region":"Western Europe",
+    "Hemisphere":"north",
+    "HappinessScore":6.907,
+    "HDI":934,
+    "GDP_PerCapita":64.1,
+    "Beer_PerCapita":313,
+    "Spirit_PerCapita":118,
+    "Wine_PerCapita":165,
+    "Total_Consumption":596,
+    "Both_Sexes":81.3,
+    "Male":89.5,
+    "Female":73.1,
+    "Code_x":"IRL",
+    "GDP_per_capita":63227.20797999999
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 6.129583,49.815273 ]
+    },
+    "properties": {
+    "FIELD1":18,
+    "Country":"Luxembourg",
+    "Region":"Western Europe",
+    "Hemisphere":"north",
+    "HappinessScore":6.871,
+    "HDI":904,
+    "GDP_PerCapita":100.73899999999999,
+    "Beer_PerCapita":236,
+    "Spirit_PerCapita":133,
+    "Wine_PerCapita":271,
+    "Total_Consumption":640,
+    "Both_Sexes":91.8,
+    "Male":95.8,
+    "Female":87.7,
+    "Code_x":"LUX",
+    "GDP_per_capita":94920.95872000001
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -102.552784,23.634501 ]
+    },
+    "properties": {
+    "FIELD1":19,
+    "Country":"Mexico",
+    "Region":"Latin America and Caribbean",
+    "Hemisphere":"north",
+    "HappinessScore":6.778,
+    "HDI":772,
+    "GDP_PerCapita":8.443999999999999,
+    "Beer_PerCapita":238,
+    "Spirit_PerCapita":68,
+    "Wine_PerCapita":5,
+    "Total_Consumption":311,
+    "Both_Sexes":42.7,
+    "Male":56.4,
+    "Female":29.4,
+    "Code_x":"MEX",
+    "GDP_per_capita":17206.634319999997
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 103.819836,1.352083 ]
+    },
+    "properties": {
+    "FIELD1":20,
+    "Country":"Singapore",
+    "Region":"Southeastern Asia",
+    "Hemisphere":"north",
+    "HappinessScore":6.739,
+    "HDI":930,
+    "GDP_PerCapita":55.243,
+    "Beer_PerCapita":60,
+    "Spirit_PerCapita":12,
+    "Wine_PerCapita":11,
+    "Total_Consumption":83,
+    "Both_Sexes":70,
+    "Male":81.7,
+    "Female":58.8,
+    "Code_x":"SGP",
+    "GDP_per_capita":82621.50318
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -3.435973,55.378051 ]
+    },
+    "properties": {
+    "FIELD1":21,
+    "Country":"United Kingdom",
+    "Region":"Western Europe",
+    "Hemisphere":"north",
+    "HappinessScore":6.725,
+    "HDI":920,
+    "GDP_PerCapita":40.412,
+    "Beer_PerCapita":219,
+    "Spirit_PerCapita":126,
+    "Wine_PerCapita":195,
+    "Total_Consumption":540,
+    "Both_Sexes":73.4,
+    "Male":84.3,
+    "Female":63,
+    "Code_x":"GBR",
+    "GDP_per_capita":39309.32708
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -71.542969,-35.675146999999996 ]
+    },
+    "properties": {
+    "FIELD1":22,
+    "Country":"Chile",
+    "Region":"Latin America and Caribbean",
+    "Hemisphere":"south",
+    "HappinessScore":6.705,
+    "HDI":842,
+    "GDP_PerCapita":13.960999999999999,
+    "Beer_PerCapita":130,
+    "Spirit_PerCapita":124,
+    "Wine_PerCapita":172,
+    "Total_Consumption":426,
+    "Both_Sexes":67.6,
+    "Male":80,
+    "Female":55.8,
+    "Code_x":"CHL",
+    "GDP_per_capita":22614.393669999998
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -80.782127,8.537981 ]
+    },
+    "properties": {
+    "FIELD1":23,
+    "Country":"Panama",
+    "Region":"Latin America and Caribbean",
+    "Hemisphere":"north",
+    "HappinessScore":6.7010000000000005,
+    "HDI":785,
+    "GDP_PerCapita":14.333,
+    "Beer_PerCapita":285,
+    "Spirit_PerCapita":104,
+    "Wine_PerCapita":18,
+    "Total_Consumption":407,
+    "Both_Sexes":47.7,
+    "Male":61.5,
+    "Female":34,
+    "Code_x":"PAN",
+    "GDP_per_capita":21472.69019
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -63.616671999999994,-38.416097 ]
+    },
+    "properties": {
+    "FIELD1":24,
+    "Country":"Argentina",
+    "Region":"Latin America and Caribbean",
+    "Hemisphere":"south",
+    "HappinessScore":6.65,
+    "HDI":822,
+    "GDP_PerCapita":12.654000000000002,
+    "Beer_PerCapita":193,
+    "Spirit_PerCapita":25,
+    "Wine_PerCapita":221,
+    "Total_Consumption":439,
+    "Both_Sexes":67.4,
+    "Male":79.9,
+    "Female":55.7,
+    "Code_x":"ARG",
+    "GDP_per_capita":18584.58
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 15.472961999999999,49.817492 ]
+    },
+    "properties": {
+    "FIELD1":25,
+    "Country":"Czech Republic",
+    "Region":"Central and Eastern Europe",
+    "Hemisphere":"north",
+    "HappinessScore":6.596,
+    "HDI":885,
+    "GDP_PerCapita":18.484,
+    "Beer_PerCapita":361,
+    "Spirit_PerCapita":170,
+    "Wine_PerCapita":134,
+    "Total_Consumption":665,
+    "Both_Sexes":75.4,
+    "Male":86,
+    "Female":65.4,
+    "Code_x":"CZE",
+    "GDP_per_capita":31338.875210000002
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 53.847818000000004,23.424076 ]
+    },
+    "properties": {
+    "FIELD1":26,
+    "Country":"United Arab Emirates",
+    "Region":"Middle East and Northern Africa",
+    "Hemisphere":"north",
+    "HappinessScore":6.5729999999999995,
+    "HDI":862,
+    "GDP_PerCapita":38.518,
+    "Beer_PerCapita":16,
+    "Spirit_PerCapita":135,
+    "Wine_PerCapita":5,
+    "Total_Consumption":156,
+    "Both_Sexes":18.5,
+    "Male":21.7,
+    "Female":7.9,
+    "Code_x":"ARE",
+    "GDP_per_capita":67705.94932999999
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -55.765834999999996,-32.522779 ]
+    },
+    "properties": {
+    "FIELD1":27,
+    "Country":"Uruguay",
+    "Region":"Latin America and Caribbean",
+    "Hemisphere":"south",
+    "HappinessScore":6.545,
+    "HDI":802,
+    "GDP_PerCapita":15.298,
+    "Beer_PerCapita":115,
+    "Spirit_PerCapita":35,
+    "Wine_PerCapita":220,
+    "Total_Consumption":370,
+    "Both_Sexes":68.9,
+    "Male":81.3,
+    "Female":57.6,
+    "Code_x":"URY",
+    "GDP_per_capita":20093.63226
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 14.375416,35.937496 ]
+    },
+    "properties": {
+    "FIELD1":28,
+    "Country":"Malta",
+    "Region":"Western Europe",
+    "Hemisphere":"north",
+    "HappinessScore":6.4879999999999995,
+    "HDI":875,
+    "GDP_PerCapita":24.771,
+    "Beer_PerCapita":149,
+    "Spirit_PerCapita":100,
+    "Wine_PerCapita":120,
+    "Total_Consumption":369,
+    "Both_Sexes":63,
+    "Male":76.2,
+    "Female":50,
+    "Code_x":"MLT",
+    "GDP_per_capita":35058.43078
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -74.297333,4.570868 ]
+    },
+    "properties": {
+    "FIELD1":29,
+    "Country":"Colombia",
+    "Region":"Latin America and Caribbean",
+    "Hemisphere":"both",
+    "HappinessScore":6.481,
+    "HDI":747,
+    "GDP_PerCapita":5.757000000000001,
+    "Beer_PerCapita":159,
+    "Spirit_PerCapita":76,
+    "Wine_PerCapita":3,
+    "Total_Consumption":238,
+    "Both_Sexes":38.3,
+    "Male":51.7,
+    "Female":25.6,
+    "Code_x":"COL",
+    "GDP_per_capita":13135.0099
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.213749,46.227638 ]
+    },
+    "properties": {
+    "FIELD1":30,
+    "Country":"France",
+    "Region":"Western Europe",
+    "Hemisphere":"north",
+    "HappinessScore":6.478,
+    "HDI":899,
+    "GDP_PerCapita":36.87,
+    "Beer_PerCapita":127,
+    "Spirit_PerCapita":151,
+    "Wine_PerCapita":370,
+    "Total_Consumption":648,
+    "Both_Sexes":75.3,
+    "Male":85.8,
+    "Female":65.6,
+    "Code_x":"FRA",
+    "GDP_per_capita":38062.63973
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 100.992541,15.870032 ]
+    },
+    "properties": {
+    "FIELD1":31,
+    "Country":"Thailand",
+    "Region":"Southeastern Asia",
+    "Hemisphere":"north",
+    "HappinessScore":6.474,
+    "HDI":748,
+    "GDP_PerCapita":5.979,
+    "Beer_PerCapita":99,
+    "Spirit_PerCapita":258,
+    "Wine_PerCapita":1,
+    "Total_Consumption":358,
+    "Both_Sexes":40.9,
+    "Male":54.6,
+    "Female":27.7,
+    "Code_x":"THA",
+    "GDP_per_capita":15705.8066
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 51.183884,25.354826 ]
+    },
+    "properties": {
+    "FIELD1":32,
+    "Country":"Qatar",
+    "Region":"Middle East and Northern Africa",
+    "Hemisphere":"north",
+    "HappinessScore":6.375,
+    "HDI":855,
+    "GDP_PerCapita":59.324,
+    "Beer_PerCapita":1,
+    "Spirit_PerCapita":42,
+    "Wine_PerCapita":7,
+    "Total_Consumption":50,
+    "Both_Sexes":45.6,
+    "Male":52.1,
+    "Female":25.2,
+    "Code_x":"QAT",
+    "GDP_per_capita":118207.1346
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -3.7492199999999998,40.463667 ]
+    },
+    "properties": {
+    "FIELD1":33,
+    "Country":"Spain",
+    "Region":"Western Europe",
+    "Hemisphere":"north",
+    "HappinessScore":6.361000000000001,
+    "HDI":889,
+    "GDP_PerCapita":26.616999999999997,
+    "Beer_PerCapita":284,
+    "Spirit_PerCapita":157,
+    "Wine_PerCapita":112,
+    "Total_Consumption":553,
+    "Both_Sexes":68.6,
+    "Male":80.9,
+    "Female":57,
+    "Code_x":"ESP",
+    "GDP_per_capita":33320.37272
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -90.23075899999999,15.783470999999999 ]
+    },
+    "properties": {
+    "FIELD1":34,
+    "Country":"Guatemala",
+    "Region":"Latin America and Caribbean",
+    "Hemisphere":"north",
+    "HappinessScore":6.324,
+    "HDI":649,
+    "GDP_PerCapita":4.141,
+    "Beer_PerCapita":53,
+    "Spirit_PerCapita":69,
+    "Wine_PerCapita":2,
+    "Total_Consumption":124,
+    "Both_Sexes":27.3,
+    "Male":38.6,
+    "Female":16.9,
+    "Code_x":"GTM",
+    "GDP_per_capita":7368.6103219999995
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -56.02778299999999,3.9193050000000005 ]
+    },
+    "properties": {
+    "FIELD1":35,
+    "Country":"Suriname",
+    "Region":"Latin America and Caribbean",
+    "Hemisphere":"north",
+    "HappinessScore":6.269,
+    "HDI":719,
+    "GDP_PerCapita":5.871,
+    "Beer_PerCapita":128,
+    "Spirit_PerCapita":178,
+    "Wine_PerCapita":7,
+    "Total_Consumption":313,
+    "Both_Sexes":42.2,
+    "Male":55.8,
+    "Female":28.7,
+    "Code_x":"SUR",
+    "GDP_per_capita":13877.986009999999
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 50.637772,25.930414000000003 ]
+    },
+    "properties": {
+    "FIELD1":36,
+    "Country":"Bahrain",
+    "Region":"Middle East and Northern Africa",
+    "Hemisphere":"north",
+    "HappinessScore":6.218,
+    "HDI":846,
+    "GDP_PerCapita":22.561,
+    "Beer_PerCapita":42,
+    "Spirit_PerCapita":63,
+    "Wine_PerCapita":7,
+    "Total_Consumption":112,
+    "Both_Sexes":8.8,
+    "Male":11.5,
+    "Female":3.8,
+    "Code_x":"BHR",
+    "GDP_per_capita":43642.97257
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -61.222503,10.691803 ]
+    },
+    "properties": {
+    "FIELD1":37,
+    "Country":"Trinidad and Tobago",
+    "Region":"Latin America and Caribbean",
+    "Hemisphere":"north",
+    "HappinessScore":6.167999999999999,
+    "HDI":785,
+    "GDP_PerCapita":16.352,
+    "Beer_PerCapita":197,
+    "Spirit_PerCapita":156,
+    "Wine_PerCapita":7,
+    "Total_Consumption":360,
+    "Both_Sexes":58.7,
+    "Male":72.5,
+    "Female":45.6,
+    "Code_x":"TTO",
+    "GDP_per_capita":29540.8743
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -66.58973,6.42375 ]
+    },
+    "properties": {
+    "FIELD1":38,
+    "Country":"Venezuela",
+    "Region":"Latin America and Caribbean",
+    "Hemisphere":"north",
+    "HappinessScore":6.084,
+    "HDI":766,
+    "GDP_PerCapita":15.692,
+    "Beer_PerCapita":333,
+    "Spirit_PerCapita":100,
+    "Wine_PerCapita":3,
+    "Total_Consumption":436,
+    "Both_Sexes":38,
+    "Male":51.2,
+    "Female":25.2,
+    "Code_x":"",
+    "GDP_per_capita":null
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 19.699023999999998,48.669026 ]
+    },
+    "properties": {
+    "FIELD1":39,
+    "Country":"Slovakia",
+    "Region":"Central and Eastern Europe",
+    "Hemisphere":"north",
+    "HappinessScore":6.077999999999999,
+    "HDI":853,
+    "GDP_PerCapita":16.53,
+    "Beer_PerCapita":196,
+    "Spirit_PerCapita":293,
+    "Wine_PerCapita":116,
+    "Total_Consumption":605,
+    "Both_Sexes":71.3,
+    "Male":82.9,
+    "Female":60,
+    "Code_x":"SVK",
+    "GDP_per_capita":29212.3782
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -88.89653,13.794185 ]
+    },
+    "properties": {
+    "FIELD1":40,
+    "Country":"El Salvador",
+    "Region":"Latin America and Caribbean",
+    "Hemisphere":"north",
+    "HappinessScore":6.068,
+    "HDI":679,
+    "GDP_PerCapita":3.7689999999999997,
+    "Beer_PerCapita":52,
+    "Spirit_PerCapita":69,
+    "Wine_PerCapita":2,
+    "Total_Consumption":123,
+    "Both_Sexes":29.4,
+    "Male":41.8,
+    "Female":19,
+    "Code_x":"SLV",
+    "GDP_per_capita":7164.143497
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -85.207229,12.865416 ]
+    },
+    "properties": {
+    "FIELD1":41,
+    "Country":"Nicaragua",
+    "Region":"Latin America and Caribbean",
+    "Hemisphere":"north",
+    "HappinessScore":5.992000000000001,
+    "HDI":657,
+    "GDP_PerCapita":2.144,
+    "Beer_PerCapita":78,
+    "Spirit_PerCapita":118,
+    "Wine_PerCapita":1,
+    "Total_Consumption":197,
+    "Both_Sexes":32.5,
+    "Male":44.9,
+    "Female":20.8,
+    "Code_x":"NIC",
+    "GDP_per_capita":5130.580295000001
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 64.585262,41.377491 ]
+    },
+    "properties": {
+    "FIELD1":42,
+    "Country":"Uzbekistan",
+    "Region":"Central and Eastern Europe",
+    "Hemisphere":"north",
+    "HappinessScore":5.987,
+    "HDI":703,
+    "GDP_PerCapita":2.106,
+    "Beer_PerCapita":25,
+    "Spirit_PerCapita":101,
+    "Wine_PerCapita":8,
+    "Total_Consumption":134,
+    "Both_Sexes":20.8,
+    "Male":30.1,
+    "Female":12,
+    "Code_x":"UZB",
+    "GDP_per_capita":6038.928299
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 12.56738,41.87194 ]
+    },
+    "properties": {
+    "FIELD1":43,
+    "Country":"Italy",
+    "Region":"Western Europe",
+    "Hemisphere":"north",
+    "HappinessScore":5.977,
+    "HDI":878,
+    "GDP_PerCapita":30.669,
+    "Beer_PerCapita":85,
+    "Spirit_PerCapita":42,
+    "Wine_PerCapita":237,
+    "Total_Consumption":364,
+    "Both_Sexes":67.8,
+    "Male":81.2,
+    "Female":54.4,
+    "Code_x":"ITA",
+    "GDP_per_capita":34655.262760000005
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -78.183406,-1.8312389999999998 ]
+    },
+    "properties": {
+    "FIELD1":44,
+    "Country":"Ecuador",
+    "Region":"Latin America and Caribbean",
+    "Hemisphere":"both",
+    "HappinessScore":5.976,
+    "HDI":749,
+    "GDP_PerCapita":6.019,
+    "Beer_PerCapita":162,
+    "Spirit_PerCapita":74,
+    "Wine_PerCapita":3,
+    "Total_Consumption":239,
+    "Both_Sexes":46.5,
+    "Male":60.3,
+    "Female":32.9,
+    "Code_x":"ECU",
+    "GDP_per_capita":10424.26415
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -88.49765,17.189877 ]
+    },
+    "properties": {
+    "FIELD1":45,
+    "Country":"Belize",
+    "Region":"Latin America and Caribbean",
+    "Hemisphere":"north",
+    "HappinessScore":5.956,
+    "HDI":709,
+    "GDP_PerCapita":4.96,
+    "Beer_PerCapita":263,
+    "Spirit_PerCapita":114,
+    "Wine_PerCapita":8,
+    "Total_Consumption":385,
+    "Both_Sexes":41.5,
+    "Male":54.9,
+    "Female":28.4,
+    "Code_x":"BLZ",
+    "GDP_per_capita":7919.147241
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 138.252924,36.204824 ]
+    },
+    "properties": {
+    "FIELD1":46,
+    "Country":"Japan",
+    "Region":"Eastern Asia",
+    "Hemisphere":"noth",
+    "HappinessScore":5.921,
+    "HDI":907,
+    "GDP_PerCapita":38.972,
+    "Beer_PerCapita":77,
+    "Spirit_PerCapita":202,
+    "Wine_PerCapita":16,
+    "Total_Consumption":295,
+    "Both_Sexes":57,
+    "Male":71.3,
+    "Female":43.7,
+    "Code_x":"JPN",
+    "GDP_per_capita":38282.50467
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 66.923684,48.019573 ]
+    },
+    "properties": {
+    "FIELD1":47,
+    "Country":"Kazakhstan",
+    "Region":"Central and Eastern Europe",
+    "Hemisphere":"north",
+    "HappinessScore":5.919,
+    "HDI":797,
+    "GDP_PerCapita":7.715,
+    "Beer_PerCapita":124,
+    "Spirit_PerCapita":246,
+    "Wine_PerCapita":12,
+    "Total_Consumption":382,
+    "Both_Sexes":39.9,
+    "Male":54.3,
+    "Female":27.2,
+    "Code_x":"KAZ",
+    "GDP_per_capita":23447.0157
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 28.369884999999996,47.411631 ]
+    },
+    "properties": {
+    "FIELD1":48,
+    "Country":"Moldova",
+    "Region":"Central and Eastern Europe",
+    "Hemisphere":"north",
+    "HappinessScore":5.897,
+    "HDI":697,
+    "GDP_PerCapita":1.913,
+    "Beer_PerCapita":109,
+    "Spirit_PerCapita":226,
+    "Wine_PerCapita":18,
+    "Total_Consumption":353,
+    "Both_Sexes":66.6,
+    "Male":79.6,
+    "Female":54.8,
+    "Code_x":"MDA",
+    "GDP_per_capita":4963.398344
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 105.3188,61.5240 ]
+    },
+    "properties": {
+    "FIELD1":49,
+    "Country":"Russian Federation",
+    "Region":"Central and Eastern Europe",
+    "Hemisphere":"north",
+    "HappinessScore":5.856,
+    "HDI":815,
+    "GDP_PerCapita":8.748,
+    "Beer_PerCapita":247,
+    "Spirit_PerCapita":326,
+    "Wine_PerCapita":73,
+    "Total_Consumption":646,
+    "Both_Sexes":58.1,
+    "Male":61.4,
+    "Female":55.4,
+    "Code_x":"RUS",
+    "GDP_per_capita":24416.623880000003
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 19.145135999999997,51.919438 ]
+    },
+    "properties": {
+    "FIELD1":50,
+    "Country":"Poland",
+    "Region":"Central and Eastern Europe",
+    "Hemisphere":"north",
+    "HappinessScore":5.835,
+    "HDI":860,
+    "GDP_PerCapita":12.415,
+    "Beer_PerCapita":343,
+    "Spirit_PerCapita":215,
+    "Wine_PerCapita":56,
+    "Total_Consumption":614,
+    "Both_Sexes":68,
+    "Male":80.7,
+    "Female":56.4,
+    "Code_x":"POL",
+    "GDP_per_capita":26035.8379
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 127.766922,35.907757000000004 ]
+    },
+    "properties": {
+    "FIELD1":51,
+    "Country":"South Korea",
+    "Region":"Eastern Asia",
+    "Hemisphere":"noth",
+    "HappinessScore":5.835,
+    "HDI":900,
+    "GDP_PerCapita":27.105,
+    "Beer_PerCapita":140,
+    "Spirit_PerCapita":16,
+    "Wine_PerCapita":9,
+    "Total_Consumption":165,
+    "Both_Sexes":63.9,
+    "Male":77,
+    "Female":51.2,
+    "Code_x":"KOR",
+    "GDP_per_capita":35020.411510000005
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -63.588653,-16.290154 ]
+    },
+    "properties": {
+    "FIELD1":52,
+    "Country":"Bolivia",
+    "Region":"Latin America and Caribbean",
+    "Hemisphere":"south",
+    "HappinessScore":5.822,
+    "HDI":689,
+    "GDP_PerCapita":3.117,
+    "Beer_PerCapita":167,
+    "Spirit_PerCapita":41,
+    "Wine_PerCapita":8,
+    "Total_Consumption":216,
+    "Both_Sexes":45.4,
+    "Male":59.1,
+    "Female":31.9,
+    "Code_x":"BOL",
+    "GDP_per_capita":6707.956184000001
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 23.881275,55.169438 ]
+    },
+    "properties": {
+    "FIELD1":53,
+    "Country":"Lithuania",
+    "Region":"Central and Eastern Europe",
+    "Hemisphere":"north",
+    "HappinessScore":5.813,
+    "HDI":855,
+    "GDP_PerCapita":14.913,
+    "Beer_PerCapita":343,
+    "Spirit_PerCapita":244,
+    "Wine_PerCapita":56,
+    "Total_Consumption":643,
+    "Both_Sexes":79.1,
+    "Male":89.1,
+    "Female":70.9,
+    "Code_x":"LTU",
+    "GDP_per_capita":28033.87393
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 27.953389,53.709807 ]
+    },
+    "properties": {
+    "FIELD1":54,
+    "Country":"Belarus",
+    "Region":"Central and Eastern Europe",
+    "Hemisphere":"north",
+    "HappinessScore":5.8020000000000005,
+    "HDI":805,
+    "GDP_PerCapita":5.023,
+    "Beer_PerCapita":142,
+    "Spirit_PerCapita":373,
+    "Wine_PerCapita":42,
+    "Total_Consumption":557,
+    "Both_Sexes":73.6,
+    "Male":79,
+    "Female":69.2,
+    "Code_x":"BLR",
+    "GDP_per_capita":16773.19355
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 14.995463,46.151241 ]
+    },
+    "properties": {
+    "FIELD1":55,
+    "Country":"Slovenia",
+    "Region":"Central and Eastern Europe",
+    "Hemisphere":"north",
+    "HappinessScore":5.768,
+    "HDI":894,
+    "GDP_PerCapita":21.65,
+    "Beer_PerCapita":270,
+    "Spirit_PerCapita":51,
+    "Wine_PerCapita":276,
+    "Total_Consumption":597,
+    "Both_Sexes":13.5,
+    "Male":19.7,
+    "Female":7.3,
+    "Code_x":"SVN",
+    "GDP_per_capita":29930.03704
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -75.015152,-9.189967 ]
+    },
+    "properties": {
+    "FIELD1":56,
+    "Country":"Peru",
+    "Region":"Latin America and Caribbean",
+    "Hemisphere":"both",
+    "HappinessScore":5.742999999999999,
+    "HDI":748,
+    "GDP_PerCapita":6.031000000000001,
+    "Beer_PerCapita":163,
+    "Spirit_PerCapita":160,
+    "Wine_PerCapita":21,
+    "Total_Consumption":344,
+    "Both_Sexes":53.2,
+    "Male":67.1,
+    "Female":39.6,
+    "Code_x":"PER",
+    "GDP_per_capita":12082.16801
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 59.556278000000006,38.969719 ]
+    },
+    "properties": {
+    "FIELD1":57,
+    "Country":"Turkmenistan",
+    "Region":"Central and Eastern Europe",
+    "Hemisphere":"north",
+    "HappinessScore":5.6579999999999995,
+    "HDI":705,
+    "GDP_PerCapita":6.388999999999999,
+    "Beer_PerCapita":19,
+    "Spirit_PerCapita":71,
+    "Wine_PerCapita":32,
+    "Total_Consumption":122,
+    "Both_Sexes":30.4,
+    "Male":42.5,
+    "Female":19,
+    "Code_x":"TKM",
+    "GDP_per_capita":15648.373109999999
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 57.552152,-20.348404000000002 ]
+    },
+    "properties": {
+    "FIELD1":58,
+    "Country":"Mauritius",
+    "Region":"Sub-Saharan Africa",
+    "Hemisphere":"north",
+    "HappinessScore":5.648,
+    "HDI":788,
+    "GDP_PerCapita":9.682,
+    "Beer_PerCapita":98,
+    "Spirit_PerCapita":31,
+    "Wine_PerCapita":18,
+    "Total_Consumption":147,
+    "Both_Sexes":31.2,
+    "Male":43.4,
+    "Female":19.5,
+    "Code_x":"MUS",
+    "GDP_per_capita":19567.48966
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 24.603189,56.879635 ]
+    },
+    "properties": {
+    "FIELD1":59,
+    "Country":"Latvia",
+    "Region":"Central and Eastern Europe",
+    "Hemisphere":"north",
+    "HappinessScore":5.56,
+    "HDI":844,
+    "GDP_PerCapita":14.07,
+    "Beer_PerCapita":281,
+    "Spirit_PerCapita":216,
+    "Wine_PerCapita":62,
+    "Total_Consumption":559,
+    "Both_Sexes":75,
+    "Male":86.5,
+    "Female":65.5,
+    "Code_x":"LVA",
+    "GDP_per_capita":23743.25782
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 33.429859,35.126413 ]
+    },
+    "properties": {
+    "FIELD1":60,
+    "Country":"Cyprus",
+    "Region":"Western Europe",
+    "Hemisphere":"north",
+    "HappinessScore":5.546,
+    "HDI":867,
+    "GDP_PerCapita":23.541,
+    "Beer_PerCapita":192,
+    "Spirit_PerCapita":154,
+    "Wine_PerCapita":113,
+    "Total_Consumption":459,
+    "Both_Sexes":68.8,
+    "Male":80.6,
+    "Female":56.6,
+    "Code_x":"CYP",
+    "GDP_per_capita":31331.392999999996
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -58.44383199999999,-23.442503 ]
+    },
+    "properties": {
+    "FIELD1":61,
+    "Country":"Paraguay",
+    "Region":"Latin America and Caribbean",
+    "Hemisphere":"south",
+    "HappinessScore":5.537999999999999,
+    "HDI":702,
+    "GDP_PerCapita":4.078,
+    "Beer_PerCapita":213,
+    "Spirit_PerCapita":117,
+    "Wine_PerCapita":74,
+    "Total_Consumption":404,
+    "Both_Sexes":36,
+    "Male":48.4,
+    "Female":23.2,
+    "Code_x":"PRY",
+    "GDP_per_capita":8871.37954
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 24.96676,45.943160999999996 ]
+    },
+    "properties": {
+    "FIELD1":62,
+    "Country":"Romania",
+    "Region":"Central and Eastern Europe",
+    "Hemisphere":"north",
+    "HappinessScore":5.528,
+    "HDI":807,
+    "GDP_PerCapita":9.532,
+    "Beer_PerCapita":297,
+    "Spirit_PerCapita":122,
+    "Wine_PerCapita":167,
+    "Total_Consumption":586,
+    "Both_Sexes":67.2,
+    "Male":80.1,
+    "Female":55.5,
+    "Code_x":"ROU",
+    "GDP_per_capita":21670.70479
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 25.013607,58.595271999999994 ]
+    },
+    "properties": {
+    "FIELD1":63,
+    "Country":"Estonia",
+    "Region":"Central and Eastern Europe",
+    "Hemisphere":"north",
+    "HappinessScore":5.517,
+    "HDI":868,
+    "GDP_PerCapita":17.737000000000002,
+    "Beer_PerCapita":224,
+    "Spirit_PerCapita":194,
+    "Wine_PerCapita":59,
+    "Total_Consumption":477,
+    "Both_Sexes":72.8,
+    "Male":84.9,
+    "Female":62.6,
+    "Code_x":"EST",
+    "GDP_per_capita":28109.817039999998
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.297508,18.109581 ]
+    },
+    "properties": {
+    "FIELD1":64,
+    "Country":"Jamaica",
+    "Region":"Latin America and Caribbean",
+    "Hemisphere":"north",
+    "HappinessScore":5.51,
+    "HDI":732,
+    "GDP_PerCapita":4.879,
+    "Beer_PerCapita":82,
+    "Spirit_PerCapita":97,
+    "Wine_PerCapita":9,
+    "Total_Consumption":188,
+    "Both_Sexes":34.9,
+    "Male":47.4,
+    "Female":22.6,
+    "Code_x":"JAM",
+    "GDP_per_capita":8179.62034
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 15.2,45.1 ]
+    },
+    "properties": {
+    "FIELD1":65,
+    "Country":"Croatia",
+    "Region":"Central and Eastern Europe",
+    "Hemisphere":"north",
+    "HappinessScore":5.4879999999999995,
+    "HDI":828,
+    "GDP_PerCapita":12.299000000000001,
+    "Beer_PerCapita":230,
+    "Spirit_PerCapita":87,
+    "Wine_PerCapita":254,
+    "Total_Consumption":571,
+    "Both_Sexes":59.7,
+    "Male":73.9,
+    "Female":46.8,
+    "Code_x":"HRV",
+    "GDP_per_capita":21799.93281
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 35.243322,38.963745 ]
+    },
+    "properties": {
+    "FIELD1":66,
+    "Country":"Turkey",
+    "Region":"Middle East and Northern Africa",
+    "Hemisphere":"north",
+    "HappinessScore":5.388999999999999,
+    "HDI":787,
+    "GDP_PerCapita":10.863,
+    "Beer_PerCapita":51,
+    "Spirit_PerCapita":22,
+    "Wine_PerCapita":7,
+    "Total_Consumption":80,
+    "Both_Sexes":6.9,
+    "Male":11,
+    "Female":3,
+    "Code_x":"TUR",
+    "GDP_per_capita":23756.48429
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 36.238414,30.585164000000002 ]
+    },
+    "properties": {
+    "FIELD1":67,
+    "Country":"Jordan",
+    "Region":"Middle East and Northern Africa",
+    "Hemisphere":"north",
+    "HappinessScore":5.303,
+    "HDI":735,
+    "GDP_PerCapita":4.088,
+    "Beer_PerCapita":6,
+    "Spirit_PerCapita":21,
+    "Wine_PerCapita":1,
+    "Total_Consumption":28,
+    "Both_Sexes":3,
+    "Male":4.5,
+    "Female":1.4,
+    "Code_x":"JOR",
+    "GDP_per_capita":8389.604573999999
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 47.576927000000005,40.143105 ]
+    },
+    "properties": {
+    "FIELD1":68,
+    "Country":"Azerbaijan",
+    "Region":"Central and Eastern Europe",
+    "Hemisphere":"north",
+    "HappinessScore":5.291,
+    "HDI":757,
+    "GDP_PerCapita":3.8810000000000002,
+    "Beer_PerCapita":21,
+    "Spirit_PerCapita":46,
+    "Wine_PerCapita":5,
+    "Total_Consumption":72,
+    "Both_Sexes":21.9,
+    "Male":31.6,
+    "Female":12.8,
+    "Code_x":"AZE",
+    "GDP_per_capita":16001.3234
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.77401699999999,12.879721 ]
+    },
+    "properties": {
+    "FIELD1":69,
+    "Country":"Philippines",
+    "Region":"Southeastern Asia",
+    "Hemisphere":"north",
+    "HappinessScore":5.279,
+    "HDI":696,
+    "GDP_PerCapita":2.951,
+    "Beer_PerCapita":71,
+    "Spirit_PerCapita":186,
+    "Wine_PerCapita":1,
+    "Total_Consumption":258,
+    "Both_Sexes":33.1,
+    "Male":45.3,
+    "Female":21,
+    "Code_x":"PHL",
+    "GDP_per_capita":7233.206103
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 104.195397,35.86166 ]
+    },
+    "properties": {
+    "FIELD1":70,
+    "Country":"China",
+    "Region":"Eastern Asia",
+    "Hemisphere":"noth",
+    "HappinessScore":5.245,
+    "HDI":748,
+    "GDP_PerCapita":8.117,
+    "Beer_PerCapita":79,
+    "Spirit_PerCapita":192,
+    "Wine_PerCapita":8,
+    "Total_Consumption":279,
+    "Both_Sexes":55.9,
+    "Male":68.6,
+    "Female":42.6,
+    "Code_x":"CHN",
+    "GDP_per_capita":14400.885059999999
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 74.766098,41.20438 ]
+    },
+    "properties": {
+    "FIELD1":71,
+    "Country":"Kyrgyzstan",
+    "Region":"Central and Eastern Europe",
+    "Hemisphere":"north",
+    "HappinessScore":5.185,
+    "HDI":669,
+    "GDP_PerCapita":1.22,
+    "Beer_PerCapita":31,
+    "Spirit_PerCapita":97,
+    "Wine_PerCapita":6,
+    "Total_Consumption":134,
+    "Both_Sexes":25.9,
+    "Male":36.8,
+    "Female":15.5,
+    "Code_x":"KGZ",
+    "GDP_per_capita":3309.8599289999997
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 21.005859,44.016521000000004 ]
+    },
+    "properties": {
+    "FIELD1":72,
+    "Country":"Serbia",
+    "Region":"Central and Eastern Europe",
+    "Hemisphere":"north",
+    "HappinessScore":5.1770000000000005,
+    "HDI":785,
+    "GDP_PerCapita":5.426,
+    "Beer_PerCapita":283,
+    "Spirit_PerCapita":131,
+    "Wine_PerCapita":127,
+    "Total_Consumption":541,
+    "Both_Sexes":60,
+    "Male":73.8,
+    "Female":47,
+    "Code_x":"SRB",
+    "GDP_per_capita":13720.89089
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 17.679076000000002,43.915886 ]
+    },
+    "properties": {
+    "FIELD1":73,
+    "Country":"Bosnia and Herzegovina",
+    "Region":"Central and Eastern Europe",
+    "Hemisphere":"north",
+    "HappinessScore":5.162999999999999,
+    "HDI":766,
+    "GDP_PerCapita":4.809,
+    "Beer_PerCapita":76,
+    "Spirit_PerCapita":173,
+    "Wine_PerCapita":8,
+    "Total_Consumption":257,
+    "Both_Sexes":47.9,
+    "Male":62.1,
+    "Female":34,
+    "Code_x":"BIH",
+    "GDP_per_capita":11337.570259999999
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 19.37439,42.708678000000006 ]
+    },
+    "properties": {
+    "FIELD1":74,
+    "Country":"Montenegro",
+    "Region":"Central and Eastern Europe",
+    "Hemisphere":"north",
+    "HappinessScore":5.1610000000000005,
+    "HDI":810,
+    "GDP_PerCapita":7.029,
+    "Beer_PerCapita":31,
+    "Spirit_PerCapita":114,
+    "Wine_PerCapita":128,
+    "Total_Consumption":273,
+    "Both_Sexes":54,
+    "Male":68.2,
+    "Female":40.4,
+    "Code_x":"MNE",
+    "GDP_per_capita":15737.024919999998
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -70.162651,18.735692999999998 ]
+    },
+    "properties": {
+    "FIELD1":75,
+    "Country":"Dominican Republic",
+    "Region":"Latin America and Caribbean",
+    "Hemisphere":"north",
+    "HappinessScore":5.155,
+    "HDI":733,
+    "GDP_PerCapita":6.794,
+    "Beer_PerCapita":193,
+    "Spirit_PerCapita":147,
+    "Wine_PerCapita":9,
+    "Total_Consumption":349,
+    "Both_Sexes":43,
+    "Male":56.7,
+    "Female":29.7,
+    "Code_x":"DOM",
+    "GDP_per_capita":14120.211640000001
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -7.09262,31.791702 ]
+    },
+    "properties": {
+    "FIELD1":76,
+    "Country":"Morocco",
+    "Region":"Middle East and Northern Africa",
+    "Hemisphere":"north",
+    "HappinessScore":5.151,
+    "HDI":662,
+    "GDP_PerCapita":2.8930000000000002,
+    "Beer_PerCapita":12,
+    "Spirit_PerCapita":6,
+    "Wine_PerCapita":10,
+    "Total_Consumption":28,
+    "Both_Sexes":2.6,
+    "Male":3.9,
+    "Female":1.3,
+    "Code_x":"MAR",
+    "GDP_per_capita":7285.908320999999
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 19.503304,47.162494 ]
+    },
+    "properties": {
+    "FIELD1":77,
+    "Country":"Hungary",
+    "Region":"Central and Eastern Europe",
+    "Hemisphere":"north",
+    "HappinessScore":5.145,
+    "HDI":835,
+    "GDP_PerCapita":12.82,
+    "Beer_PerCapita":234,
+    "Spirit_PerCapita":215,
+    "Wine_PerCapita":185,
+    "Total_Consumption":634,
+    "Both_Sexes":66.6,
+    "Male":79.9,
+    "Female":54.8,
+    "Code_x":"HUN",
+    "GDP_per_capita":25664.136000000002
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 35.862285,33.854721000000005 ]
+    },
+    "properties": {
+    "FIELD1":78,
+    "Country":"Lebanon",
+    "Region":"Middle East and Northern Africa",
+    "Hemisphere":"north",
+    "HappinessScore":5.129,
+    "HDI":753,
+    "GDP_PerCapita":8.257,
+    "Beer_PerCapita":20,
+    "Spirit_PerCapita":55,
+    "Wine_PerCapita":31,
+    "Total_Consumption":106,
+    "Both_Sexes":6.1,
+    "Male":9.2,
+    "Female":3,
+    "Code_x":"LBN",
+    "GDP_per_capita":13267.8857
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -8.224454,39.399871999999995 ]
+    },
+    "properties": {
+    "FIELD1":79,
+    "Country":"Portugal",
+    "Region":"Western Europe",
+    "Hemisphere":"north",
+    "HappinessScore":5.122999999999999,
+    "HDI":845,
+    "GDP_PerCapita":19.872,
+    "Beer_PerCapita":194,
+    "Spirit_PerCapita":67,
+    "Wine_PerCapita":339,
+    "Total_Consumption":600,
+    "Both_Sexes":69.2,
+    "Male":81.6,
+    "Female":58.3,
+    "Code_x":"PRT",
+    "GDP_per_capita":27124.155039999998
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  []
+    },
+    "properties": {
+    "FIELD1":80,
+    "Country":"Macedonia",
+    "Region":"Central and Eastern Europe",
+    "Hemisphere":"north",
+    "HappinessScore":5.121,
+    "HDI":756,
+    "GDP_PerCapita":4.834,
+    "Beer_PerCapita":106,
+    "Spirit_PerCapita":27,
+    "Wine_PerCapita":86,
+    "Total_Consumption":219,
+    "Both_Sexes":53.7,
+    "Male":67.7,
+    "Female":39.9,
+    "Code_x":"MKD",
+    "GDP_per_capita":13120.87251
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 108.277199,14.058323999999999 ]
+    },
+    "properties": {
+    "FIELD1":81,
+    "Country":"Vietnam",
+    "Region":"Southeastern Asia",
+    "Hemisphere":"north",
+    "HappinessScore":5.061,
+    "HDI":689,
+    "GDP_PerCapita":2.171,
+    "Beer_PerCapita":111,
+    "Spirit_PerCapita":2,
+    "Wine_PerCapita":1,
+    "Total_Consumption":114,
+    "Both_Sexes":99.4,
+    "Male":50,
+    "Female":23.9,
+    "Code_x":"VNM",
+    "GDP_per_capita":5837.628704
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 9.537499,33.886917 ]
+    },
+    "properties": {
+    "FIELD1":82,
+    "Country":"Tunisia",
+    "Region":"Middle East and Northern Africa",
+    "Hemisphere":"north",
+    "HappinessScore":5.045,
+    "HDI":732,
+    "GDP_PerCapita":3.6889999999999996,
+    "Beer_PerCapita":51,
+    "Spirit_PerCapita":3,
+    "Wine_PerCapita":20,
+    "Total_Consumption":74,
+    "Both_Sexes":5.2,
+    "Male":8.9,
+    "Female":1.6,
+    "Code_x":"TUN",
+    "GDP_per_capita":10761.51453
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 21.824312,39.074208 ]
+    },
+    "properties": {
+    "FIELD1":83,
+    "Country":"Greece",
+    "Region":"Western Europe",
+    "Hemisphere":"north",
+    "HappinessScore":5.033,
+    "HDI":868,
+    "GDP_PerCapita":17.882,
+    "Beer_PerCapita":133,
+    "Spirit_PerCapita":112,
+    "Wine_PerCapita":218,
+    "Total_Consumption":463,
+    "Both_Sexes":65.4,
+    "Male":78.3,
+    "Female":53.3,
+    "Code_x":"GRC",
+    "GDP_per_capita":24211.74089
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 103.84665600000001,46.862496 ]
+    },
+    "properties": {
+    "FIELD1":84,
+    "Country":"Mongolia",
+    "Region":"Eastern Asia",
+    "Hemisphere":"noth",
+    "HappinessScore":4.907,
+    "HDI":743,
+    "GDP_PerCapita":3.694,
+    "Beer_PerCapita":77,
+    "Spirit_PerCapita":189,
+    "Wine_PerCapita":8,
+    "Total_Consumption":274,
+    "Both_Sexes":33.6,
+    "Male":46.3,
+    "Female":21.5,
+    "Code_x":"MNG",
+    "GDP_per_capita":11361.00642
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 8.675277000000001,9.081999 ]
+    },
+    "properties": {
+    "FIELD1":85,
+    "Country":"Nigeria",
+    "Region":"Sub-Saharan Africa",
+    "Hemisphere":"north",
+    "HappinessScore":4.875,
+    "HDI":530,
+    "GDP_PerCapita":2.176,
+    "Beer_PerCapita":42,
+    "Spirit_PerCapita":5,
+    "Wine_PerCapita":2,
+    "Total_Consumption":49,
+    "Both_Sexes":52.6,
+    "Male":67,
+    "Female":37.7,
+    "Code_x":"NGA",
+    "GDP_per_capita":5434.734795
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -86.241905,15.199998999999998 ]
+    },
+    "properties": {
+    "FIELD1":86,
+    "Country":"Honduras",
+    "Region":"Latin America and Caribbean",
+    "Hemisphere":"north",
+    "HappinessScore":4.871,
+    "HDI":614,
+    "GDP_PerCapita":2.375,
+    "Beer_PerCapita":69,
+    "Spirit_PerCapita":98,
+    "Wine_PerCapita":2,
+    "Total_Consumption":169,
+    "Both_Sexes":29.8,
+    "Male":41.3,
+    "Female":18.5,
+    "Code_x":"HND",
+    "GDP_per_capita":4406.773532
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 27.849332,-13.133897 ]
+    },
+    "properties": {
+    "FIELD1":87,
+    "Country":"Zambia",
+    "Region":"Sub-Saharan Africa",
+    "Hemisphere":"south",
+    "HappinessScore":4.795,
+    "HDI":586,
+    "GDP_PerCapita":1.263,
+    "Beer_PerCapita":32,
+    "Spirit_PerCapita":19,
+    "Wine_PerCapita":4,
+    "Total_Consumption":55,
+    "Both_Sexes":27.3,
+    "Male":38.3,
+    "Female":16.5,
+    "Code_x":"ZMB",
+    "GDP_per_capita":3652.151926
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 20.168331,41.153332 ]
+    },
+    "properties": {
+    "FIELD1":88,
+    "Country":"Albania",
+    "Region":"Central and Eastern Europe",
+    "Hemisphere":"north",
+    "HappinessScore":4.655,
+    "HDI":782,
+    "GDP_PerCapita":4.132,
+    "Beer_PerCapita":89,
+    "Spirit_PerCapita":132,
+    "Wine_PerCapita":54,
+    "Total_Consumption":275,
+    "Both_Sexes":51,
+    "Male":65,
+    "Female":37.6,
+    "Code_x":"ALB",
+    "GDP_per_capita":11356.34133
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -11.779889,8.460555000000001 ]
+    },
+    "properties": {
+    "FIELD1":89,
+    "Country":"Sierra Leone",
+    "Region":"Sub-Saharan Africa",
+    "Hemisphere":"north",
+    "HappinessScore":4.635,
+    "HDI":413,
+    "GDP_PerCapita":481,
+    "Beer_PerCapita":25,
+    "Spirit_PerCapita":3,
+    "Wine_PerCapita":2,
+    "Total_Consumption":30,
+    "Both_Sexes":30.9,
+    "Male":43.1,
+    "Female":19.2,
+    "Code_x":"SLE",
+    "GDP_per_capita":1363.863571
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 18.49041,-22.957639999999998 ]
+    },
+    "properties": {
+    "FIELD1":90,
+    "Country":"Namibia",
+    "Region":"Sub-Saharan Africa",
+    "Hemisphere":"south",
+    "HappinessScore":4.574,
+    "HDI":645,
+    "GDP_PerCapita":4.561,
+    "Beer_PerCapita":376,
+    "Spirit_PerCapita":3,
+    "Wine_PerCapita":1,
+    "Total_Consumption":380,
+    "Both_Sexes":30.3,
+    "Male":42.4,
+    "Female":19.1,
+    "Code_x":"NAM",
+    "GDP_per_capita":9825.59927
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 12.354722,7.369722 ]
+    },
+    "properties": {
+    "FIELD1":91,
+    "Country":"Cameroon",
+    "Region":"Sub-Saharan Africa",
+    "Hemisphere":"south",
+    "HappinessScore":4.513,
+    "HDI":553,
+    "GDP_PerCapita":1.375,
+    "Beer_PerCapita":147,
+    "Spirit_PerCapita":1,
+    "Wine_PerCapita":4,
+    "Total_Consumption":152,
+    "Both_Sexes":33.8,
+    "Male":46.9,
+    "Female":21.4,
+    "Code_x":"CMR",
+    "GDP_per_capita":3346.817793
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 22.937506,-30.559482 ]
+    },
+    "properties": {
+    "FIELD1":92,
+    "Country":"South Africa",
+    "Region":"Sub-Saharan Africa",
+    "Hemisphere":"south",
+    "HappinessScore":4.459,
+    "HDI":696,
+    "GDP_PerCapita":5.28,
+    "Beer_PerCapita":225,
+    "Spirit_PerCapita":76,
+    "Wine_PerCapita":81,
+    "Total_Consumption":382,
+    "Both_Sexes":37.6,
+    "Male":50.8,
+    "Female":24.9,
+    "Code_x":"ZAF",
+    "GDP_per_capita":12286.69712
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 30.802497999999996,26.820553000000004 ]
+    },
+    "properties": {
+    "FIELD1":93,
+    "Country":"Egypt",
+    "Region":"Middle East and Northern Africa",
+    "Hemisphere":"north",
+    "HappinessScore":4.362,
+    "HDI":694,
+    "GDP_PerCapita":3.548,
+    "Beer_PerCapita":6,
+    "Spirit_PerCapita":4,
+    "Wine_PerCapita":1,
+    "Total_Consumption":11,
+    "Both_Sexes":2.8,
+    "Male":4.2,
+    "Female":1.4,
+    "Code_x":"EGY",
+    "GDP_per_capita":10324.10114
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 45.038189,40.069099 ]
+    },
+    "properties": {
+    "FIELD1":94,
+    "Country":"Armenia",
+    "Region":"Central and Eastern Europe",
+    "Hemisphere":"north",
+    "HappinessScore":4.36,
+    "HDI":749,
+    "GDP_PerCapita":3.6060000000000003,
+    "Beer_PerCapita":21,
+    "Spirit_PerCapita":179,
+    "Wine_PerCapita":11,
+    "Total_Consumption":211,
+    "Both_Sexes":26,
+    "Male":38,
+    "Female":16.2,
+    "Code_x":"ARM",
+    "GDP_per_capita":8190.239289
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 37.906193,-0.023559 ]
+    },
+    "properties": {
+    "FIELD1":95,
+    "Country":"Kenya",
+    "Region":"Sub-Saharan Africa",
+    "Hemisphere":"both",
+    "HappinessScore":4.356,
+    "HDI":585,
+    "GDP_PerCapita":1.463,
+    "Beer_PerCapita":58,
+    "Spirit_PerCapita":22,
+    "Wine_PerCapita":2,
+    "Total_Consumption":82,
+    "Both_Sexes":23.9,
+    "Male":33.8,
+    "Female":14,
+    "Code_x":"KEN",
+    "GDP_per_capita":2926.532502
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 31.16558,48.379433 ]
+    },
+    "properties": {
+    "FIELD1":96,
+    "Country":"Ukraine",
+    "Region":"Central and Eastern Europe",
+    "Hemisphere":"north",
+    "HappinessScore":4.324,
+    "HDI":746,
+    "GDP_PerCapita":2.186,
+    "Beer_PerCapita":206,
+    "Spirit_PerCapita":237,
+    "Wine_PerCapita":45,
+    "Total_Consumption":488,
+    "Both_Sexes":61.8,
+    "Male":68.7,
+    "Female":56.1,
+    "Code_x":"UKR",
+    "GDP_per_capita":7668.055776
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -1.0231940000000002,7.946527000000001 ]
+    },
+    "properties": {
+    "FIELD1":97,
+    "Country":"Ghana",
+    "Region":"Sub-Saharan Africa",
+    "Hemisphere":"north",
+    "HappinessScore":4.276,
+    "HDI":588,
+    "GDP_PerCapita":1.517,
+    "Beer_PerCapita":31,
+    "Spirit_PerCapita":3,
+    "Wine_PerCapita":10,
+    "Total_Consumption":44,
+    "Both_Sexes":26,
+    "Male":36.8,
+    "Female":15.7,
+    "Code_x":"GHA",
+    "GDP_per_capita":3982.769467
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  []
+    },
+    "properties": {
+    "FIELD1":98,
+    "Country":"Dem. Rep. Congo",
+    "Region":"Sub-Saharan Africa",
+    "Hemisphere":"south",
+    "HappinessScore":4.272,
+    "HDI":452,
+    "GDP_PerCapita":1.712,
+    "Beer_PerCapita":32,
+    "Spirit_PerCapita":3,
+    "Wine_PerCapita":1,
+    "Total_Consumption":36,
+    "Both_Sexes":36.4,
+    "Male":49.2,
+    "Female":23.8,
+    "Code_x":"COD",
+    "GDP_per_capita":805.0642641
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 43.356891999999995,42.315407 ]
+    },
+    "properties": {
+    "FIELD1":99,
+    "Country":"Georgia",
+    "Region":"Central and Eastern Europe",
+    "Hemisphere":"north",
+    "HappinessScore":4.252,
+    "HDI":776,
+    "GDP_PerCapita":3.866,
+    "Beer_PerCapita":52,
+    "Spirit_PerCapita":100,
+    "Wine_PerCapita":149,
+    "Total_Consumption":301,
+    "Both_Sexes":35.1,
+    "Male":48.9,
+    "Female":23,
+    "Code_x":"GEO",
+    "GDP_per_capita":9276.766245
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  []
+    },
+    "properties": {
+    "FIELD1":100,
+    "Country":"Rep. Congo",
+    "Region":"Sub-Saharan Africa",
+    "Hemisphere":"south",
+    "HappinessScore":4.236000000000001,
+    "HDI":612,
+    "GDP_PerCapita":498,
+    "Beer_PerCapita":76,
+    "Spirit_PerCapita":1,
+    "Wine_PerCapita":9,
+    "Total_Consumption":86,
+    "Both_Sexes":51.7,
+    "Male":65.5,
+    "Female":38,
+    "Code_x":"COG",
+    "GDP_per_capita":5250.867608
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -14.452361999999999,14.497401000000002 ]
+    },
+    "properties": {
+    "FIELD1":101,
+    "Country":"Senegal",
+    "Region":"Sub-Saharan Africa",
+    "Hemisphere":"north",
+    "HappinessScore":4.218999999999999,
+    "HDI":499,
+    "GDP_PerCapita":953,
+    "Beer_PerCapita":9,
+    "Spirit_PerCapita":1,
+    "Wine_PerCapita":7,
+    "Total_Consumption":17,
+    "Both_Sexes":21.1,
+    "Male":30.4,
+    "Female":12.5,
+    "Code_x":"SEN",
+    "GDP_per_capita":2379.4512640000003
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 25.48583,42.733883 ]
+    },
+    "properties": {
+    "FIELD1":102,
+    "Country":"Bulgaria",
+    "Region":"Central and Eastern Europe",
+    "Hemisphere":"north",
+    "HappinessScore":4.217,
+    "HDI":810,
+    "GDP_PerCapita":7.468999999999999,
+    "Beer_PerCapita":231,
+    "Spirit_PerCapita":252,
+    "Wine_PerCapita":94,
+    "Total_Consumption":577,
+    "Both_Sexes":66,
+    "Male":79.2,
+    "Female":53.9,
+    "Code_x":"BGR",
+    "GDP_per_capita":17794.54276
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 29.154857,-19.015438 ]
+    },
+    "properties": {
+    "FIELD1":103,
+    "Country":"Zimbabwe",
+    "Region":"Sub-Saharan Africa",
+    "Hemisphere":"south",
+    "HappinessScore":4.1930000000000005,
+    "HDI":532,
+    "GDP_PerCapita":1.0290000000000001,
+    "Beer_PerCapita":64,
+    "Spirit_PerCapita":18,
+    "Wine_PerCapita":4,
+    "Total_Consumption":86,
+    "Both_Sexes":17.6,
+    "Male":25.7,
+    "Female":10,
+    "Code_x":"ZWE",
+    "GDP_per_capita":1879.6281190000002
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 34.301525,-13.254307999999998 ]
+    },
+    "properties": {
+    "FIELD1":104,
+    "Country":"Malawi",
+    "Region":"Sub-Saharan Africa",
+    "Hemisphere":"south",
+    "HappinessScore":4.156000000000001,
+    "HDI":474,
+    "GDP_PerCapita":300,
+    "Beer_PerCapita":8,
+    "Spirit_PerCapita":11,
+    "Wine_PerCapita":1,
+    "Total_Consumption":20,
+    "Both_Sexes":23.7,
+    "Male":33.6,
+    "Female":13.9,
+    "Code_x":"MWI",
+    "GDP_per_capita":1083.8014210000001
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 11.609444,-0.803689 ]
+    },
+    "properties": {
+    "FIELD1":105,
+    "Country":"Gabon",
+    "Region":"Sub-Saharan Africa",
+    "Hemisphere":"south",
+    "HappinessScore":4.121,
+    "HDI":698,
+    "GDP_PerCapita":7.079,
+    "Beer_PerCapita":347,
+    "Spirit_PerCapita":98,
+    "Wine_PerCapita":59,
+    "Total_Consumption":504,
+    "Both_Sexes":66.5,
+    "Male":78.6,
+    "Female":54.1,
+    "Code_x":"GAB",
+    "GDP_per_capita":16756.69447
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -3.9961660000000006,17.570692 ]
+    },
+    "properties": {
+    "FIELD1":106,
+    "Country":"Mali",
+    "Region":"Sub-Saharan Africa",
+    "Hemisphere":"north",
+    "HappinessScore":4.073,
+    "HDI":421,
+    "GDP_PerCapita":780,
+    "Beer_PerCapita":5,
+    "Spirit_PerCapita":1,
+    "Wine_PerCapita":1,
+    "Total_Consumption":7,
+    "Both_Sexes":21.9,
+    "Male":31.1,
+    "Female":12.8,
+    "Code_x":"MLI",
+    "GDP_per_capita":1971.08448
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -72.28521500000001,18.971187 ]
+    },
+    "properties": {
+    "FIELD1":107,
+    "Country":"Haiti",
+    "Region":"Latin America and Caribbean",
+    "Hemisphere":"north",
+    "HappinessScore":4.0280000000000005,
+    "HDI":496,
+    "GDP_PerCapita":735,
+    "Beer_PerCapita":1,
+    "Spirit_PerCapita":326,
+    "Wine_PerCapita":1,
+    "Total_Consumption":328,
+    "Both_Sexes":35.1,
+    "Male":47.9,
+    "Female":22.9,
+    "Code_x":"HTI",
+    "GDP_per_capita":1654.170537
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 24.684866,-22.328474 ]
+    },
+    "properties": {
+    "FIELD1":108,
+    "Country":"Botswana",
+    "Region":"Sub-Saharan Africa",
+    "Hemisphere":"south",
+    "HappinessScore":3.9739999999999998,
+    "HDI":712,
+    "GDP_PerCapita":6.954,
+    "Beer_PerCapita":173,
+    "Spirit_PerCapita":35,
+    "Wine_PerCapita":35,
+    "Total_Consumption":243,
+    "Both_Sexes":32,
+    "Male":44,
+    "Female":20,
+    "Code_x":"BWA",
+    "GDP_per_capita":15727.1678
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 43.872219,-11.875001 ]
+    },
+    "properties": {
+    "FIELD1":109,
+    "Country":"Comoros",
+    "Region":"Sub-Saharan Africa",
+    "Hemisphere":"south",
+    "HappinessScore":3.9560000000000004,
+    "HDI":502,
+    "GDP_PerCapita":775,
+    "Beer_PerCapita":1,
+    "Spirit_PerCapita":3,
+    "Wine_PerCapita":1,
+    "Total_Consumption":5,
+    "Both_Sexes":4.1,
+    "Male":6.2,
+    "Female":1.9,
+    "Code_x":"COM",
+    "GDP_per_capita":1411.152339
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  []
+    },
+    "properties": {
+    "FIELD1":110,
+    "Country":"Cote d'Ivoire",
+    "Region":"Sub-Saharan Africa",
+    "Hemisphere":"north",
+    "HappinessScore":3.9160000000000004,
+    "HDI":486,
+    "GDP_PerCapita":1.535,
+    "Beer_PerCapita":37,
+    "Spirit_PerCapita":1,
+    "Wine_PerCapita":7,
+    "Total_Consumption":45,
+    "Both_Sexes":38.5,
+    "Male":52.3,
+    "Female":24.1,
+    "Code_x":"CIV",
+    "GDP_per_capita":3424.9640210000002
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 104.990963,12.565679 ]
+    },
+    "properties": {
+    "FIELD1":111,
+    "Country":"Cambodia",
+    "Region":"Southeastern Asia",
+    "Hemisphere":"north",
+    "HappinessScore":3.907,
+    "HDI":576,
+    "GDP_PerCapita":1.27,
+    "Beer_PerCapita":57,
+    "Spirit_PerCapita":65,
+    "Wine_PerCapita":1,
+    "Total_Consumption":123,
+    "Both_Sexes":30.9,
+    "Male":43.2,
+    "Female":19.6,
+    "Code_x":"KHM",
+    "GDP_per_capita":3465.125565
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 17.873887,-11.202691999999999 ]
+    },
+    "properties": {
+    "FIELD1":112,
+    "Country":"Angola",
+    "Region":"Sub-Saharan Africa",
+    "Hemisphere":"south",
+    "HappinessScore":3.866,
+    "HDI":577,
+    "GDP_PerCapita":3.3089999999999997,
+    "Beer_PerCapita":217,
+    "Spirit_PerCapita":57,
+    "Wine_PerCapita":45,
+    "Total_Consumption":319,
+    "Both_Sexes":47.7,
+    "Male":61.6,
+    "Female":34.3,
+    "Code_x":"AGO",
+    "GDP_per_capita":5972.451513
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 8.081666,17.607789 ]
+    },
+    "properties": {
+    "FIELD1":113,
+    "Country":"Niger",
+    "Region":"Sub-Saharan Africa",
+    "Hemisphere":"north",
+    "HappinessScore":3.8560000000000003,
+    "HDI":351,
+    "GDP_PerCapita":368,
+    "Beer_PerCapita":3,
+    "Spirit_PerCapita":2,
+    "Wine_PerCapita":1,
+    "Total_Consumption":6,
+    "Both_Sexes":20.2,
+    "Male":28.8,
+    "Female":11.7,
+    "Code_x":"NER",
+    "GDP_per_capita":917.1401159
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 18.732207,15.454166 ]
+    },
+    "properties": {
+    "FIELD1":114,
+    "Country":"Chad",
+    "Region":"Sub-Saharan Africa",
+    "Hemisphere":"north",
+    "HappinessScore":3.763,
+    "HDI":405,
+    "GDP_PerCapita":651,
+    "Beer_PerCapita":15,
+    "Spirit_PerCapita":1,
+    "Wine_PerCapita":1,
+    "Total_Consumption":17,
+    "Both_Sexes":22.4,
+    "Male":31.7,
+    "Female":13.1,
+    "Code_x":"TCD",
+    "GDP_per_capita":1878.3784829999997
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -1.561593,12.238333 ]
+    },
+    "properties": {
+    "FIELD1":115,
+    "Country":"Burkina Faso",
+    "Region":"Sub-Saharan Africa",
+    "Hemisphere":"north",
+    "HappinessScore":3.739,
+    "HDI":420,
+    "GDP_PerCapita":614,
+    "Beer_PerCapita":25,
+    "Spirit_PerCapita":7,
+    "Wine_PerCapita":7,
+    "Total_Consumption":39,
+    "Both_Sexes":36.9,
+    "Male":51.2,
+    "Female":23.2,
+    "Code_x":"BFA",
+    "GDP_per_capita":1642.322003
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 46.869107,-18.766947000000002 ]
+    },
+    "properties": {
+    "FIELD1":116,
+    "Country":"Madagascar",
+    "Region":"Sub-Saharan Africa",
+    "Hemisphere":"south",
+    "HappinessScore":3.695,
+    "HDI":517,
+    "GDP_PerCapita":402,
+    "Beer_PerCapita":26,
+    "Spirit_PerCapita":15,
+    "Wine_PerCapita":4,
+    "Total_Consumption":45,
+    "Both_Sexes":20.9,
+    "Male":30,
+    "Female":12,
+    "Code_x":"MDG",
+    "GDP_per_capita":1396.669615
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 34.888822,-6.369028 ]
+    },
+    "properties": {
+    "FIELD1":117,
+    "Country":"Tanzania",
+    "Region":"Sub-Saharan Africa",
+    "Hemisphere":"south",
+    "HappinessScore":3.6660000000000004,
+    "HDI":533,
+    "GDP_PerCapita":878,
+    "Beer_PerCapita":36,
+    "Spirit_PerCapita":6,
+    "Wine_PerCapita":1,
+    "Total_Consumption":43,
+    "Both_Sexes":36.4,
+    "Male":49.3,
+    "Female":24,
+    "Code_x":"TZA",
+    "GDP_per_capita":2583.589673
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -9.429499,6.4280550000000005 ]
+    },
+    "properties": {
+    "FIELD1":118,
+    "Country":"Liberia",
+    "Region":"Sub-Saharan Africa",
+    "Hemisphere":"north",
+    "HappinessScore":3.622,
+    "HDI":432,
+    "GDP_PerCapita":455,
+    "Beer_PerCapita":19,
+    "Spirit_PerCapita":152,
+    "Wine_PerCapita":2,
+    "Total_Consumption":173,
+    "Both_Sexes":30.8,
+    "Male":42.7,
+    "Female":18.9,
+    "Code_x":"LBR",
+    "GDP_per_capita":753.557379
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.315834,9.30769 ]
+    },
+    "properties": {
+    "FIELD1":119,
+    "Country":"Benin",
+    "Region":"Sub-Saharan Africa",
+    "Hemisphere":"north",
+    "HappinessScore":3.484,
+    "HDI":512,
+    "GDP_PerCapita":789,
+    "Beer_PerCapita":34,
+    "Spirit_PerCapita":4,
+    "Wine_PerCapita":13,
+    "Total_Consumption":51,
+    "Both_Sexes":26.1,
+    "Male":37,
+    "Female":15.4,
+    "Code_x":"BEN",
+    "GDP_per_capita":2009.6183210000002
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 0.824782,8.619543 ]
+    },
+    "properties": {
+    "FIELD1":120,
+    "Country":"Togo",
+    "Region":"Sub-Saharan Africa",
+    "Hemisphere":"north",
+    "HappinessScore":3.303,
+    "HDI":500,
+    "GDP_PerCapita":577,
+    "Beer_PerCapita":36,
+    "Spirit_PerCapita":2,
+    "Wine_PerCapita":19,
+    "Total_Consumption":57,
+    "Both_Sexes":25.7,
+    "Male":36.5,
+    "Female":15.2,
+    "Code_x":"TGO",
+    "GDP_per_capita":1388.496142
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 38.996815000000005,34.802075 ]
+    },
+    "properties": {
+    "FIELD1":121,
+    "Country":"Syria",
+    "Region":"Middle East and Northern Africa",
+    "Hemisphere":"north",
+    "HappinessScore":3.069,
+    "HDI":536,
+    "GDP_PerCapita":2.0580000000000003,
+    "Beer_PerCapita":5,
+    "Spirit_PerCapita":35,
+    "Wine_PerCapita":16,
+    "Total_Consumption":56,
+    "Both_Sexes":2,
+    "Male":3.4,
+    "Female":0.7,
+    "Code_x":"",
+    "GDP_per_capita":null
+    }
+  }
+]
+}

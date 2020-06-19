@@ -1,0 +1,123 @@
+,Country,Region,Hemisphere,HappinessScore,HDI,GDP_PerCapita,Beer_PerCapita,Spirit_PerCapita,Wine_PerCapita,Total_Consumption,Both_Sexes,Male,Female,Code,GDP_per_capita
+0,Denmark,Western Europe,north,7.526,928,53.579,224,81,278,583,74.4,85,64.2,DNK,45991.22478
+1,Switzerland,Western Europe,north,7.509,943,79.866,185,100,280,565,81.2,89.6,73,CHE,57421.5485
+2,Iceland,Western Europe,north,7.501,933,60.53,233,61,78,372,71.5,82.6,60.3,ISL,45630.93817
+3,Norway,Western Europe,north,7.498,951,70.89,169,71,129,369,79,88,69.8,NOR,64159.54425
+4,Finland,Western Europe,north,7.413,918,43.433,263,133,97,493,72.5,83.8,61.7,FIN,39659.16604
+5,Canada,North America,north,7.404,922,42.349,240,122,100,462,64.5,77.3,52.1,CAN,43238.2596
+6,Netherlands,Western Europe,north,7.339,928,45.638,251,88,190,529,72.1,83.3,61.2,NLD,47269.63295
+7,New Zealand,Australia and New Zealand,south,7.334,915,40.332,203,79,175,457,74.6,85.1,64.8,NZL,35776.57173
+8,Australia,Australia and New Zealand,south,7.313,938,49.897,261,72,212,545,79.4,88.3,70.6,AUS,44493.48089
+9,Sweden,Western Europe,north,7.291,932,51.845,152,60,186,398,73,83.9,62.2,SWE,46568.17715
+10,Israel,Middle East and Northern Africa,north,7.267,902,37.181,63,69,9,141,55,68.9,41.6,ISR,32688.4081
+11,Austria,Western Europe,north,7.119,906,44.731,279,75,191,545,78.1,87.7,68.9,AUT,44464.35027
+12,United States,North America,north,7.104,922,57.589,249,158,84,491,71.7,83,60.7,USA,53399.35917
+13,Costa Rica,Latin America and Caribbean,north,7.087,791,11.733,149,87,11,247,36.6,49.5,23.9,CRI,15195.00141
+14,Germany,Western Europe,north,6.994,934,42.233,346,117,175,638,79.4,88.5,70.6,DEU,44431.82284
+15,Brazil,Latin America and Caribbean,both,6.952,758,8.639,245,145,16,406,40.3,54,27.3,BRA,14077.12141
+16,Belgium,Western Europe,north,6.929,915,41.261,295,84,212,591,76.5,86.6,66.8,BEL,42083.6443
+17,Ireland,Western Europe,north,6.907,934,64.1,313,118,165,596,81.3,89.5,73.1,IRL,63227.20798
+18,Luxembourg,Western Europe,north,6.871,904,100.739,236,133,271,640,91.8,95.8,87.7,LUX,94920.95872
+19,Mexico,Latin America and Caribbean,north,6.778,772,8.444,238,68,5,311,42.7,56.4,29.4,MEX,17206.63432
+20,Singapore,Southeastern Asia,north,6.739,930,55.243,60,12,11,83,70,81.7,58.8,SGP,82621.50318
+21,United Kingdom,Western Europe,north,6.725,920,40.412,219,126,195,540,73.4,84.3,63,GBR,39309.32708
+22,Chile,Latin America and Caribbean,south,6.705,842,13.961,130,124,172,426,67.6,80,55.8,CHL,22614.39367
+23,Panama,Latin America and Caribbean,north,6.701,785,14.333,285,104,18,407,47.7,61.5,34,PAN,21472.69019
+24,Argentina,Latin America and Caribbean,south,6.65,822,12.654,193,25,221,439,67.4,79.9,55.7,ARG,18584.58
+25,Czech Republic,Central and Eastern Europe,north,6.596,885,18.484,361,170,134,665,75.4,86,65.4,CZE,31338.87521
+26,United Arab Emirates,Middle East and Northern Africa,north,6.573,862,38.518,16,135,5,156,18.5,21.7,7.9,ARE,67705.94933
+27,Uruguay,Latin America and Caribbean,south,6.545,802,15.298,115,35,220,370,68.9,81.3,57.6,URY,20093.63226
+28,Malta,Western Europe,north,6.488,875,24.771,149,100,120,369,63,76.2,50,MLT,35058.43078
+29,Colombia,Latin America and Caribbean,both,6.481,747,5.757,159,76,3,238,38.3,51.7,25.6,COL,13135.0099
+30,France,Western Europe,north,6.478,899,36.87,127,151,370,648,75.3,85.8,65.6,FRA,38062.63973
+31,Thailand,Southeastern Asia,north,6.474,748,5.979,99,258,1,358,40.9,54.6,27.7,THA,15705.8066
+32,Qatar,Middle East and Northern Africa,north,6.375,855,59.324,1,42,7,50,45.6,52.1,25.2,QAT,118207.1346
+33,Spain,Western Europe,north,6.361,889,26.617,284,157,112,553,68.6,80.9,57,ESP,33320.37272
+34,Guatemala,Latin America and Caribbean,north,6.324,649,4.141,53,69,2,124,27.3,38.6,16.9,GTM,7368.610322
+35,Suriname,Latin America and Caribbean,north,6.269,719,5.871,128,178,7,313,42.2,55.8,28.7,SUR,13877.98601
+36,Bahrain,Middle East and Northern Africa,north,6.218,846,22.561,42,63,7,112,8.8,11.5,3.8,BHR,43642.97257
+37,Trinidad and Tobago,Latin America and Caribbean,north,6.168,785,16.352,197,156,7,360,58.7,72.5,45.6,TTO,29540.8743
+38,Venezuela,Latin America and Caribbean,north,6.084,766,15.692,333,100,3,436,38,51.2,25.2,,
+39,Slovakia,Central and Eastern Europe,north,6.078,853,16.53,196,293,116,605,71.3,82.9,60,SVK,29212.3782
+40,El Salvador,Latin America and Caribbean,north,6.068,679,3.769,52,69,2,123,29.4,41.8,19,SLV,7164.143497
+41,Nicaragua,Latin America and Caribbean,north,5.992,657,2.144,78,118,1,197,32.5,44.9,20.8,NIC,5130.580295
+42,Uzbekistan,Central and Eastern Europe,north,5.987,703,2.106,25,101,8,134,20.8,30.1,12,UZB,6038.928299
+43,Italy,Western Europe,north,5.977,878,30.669,85,42,237,364,67.8,81.2,54.4,ITA,34655.26276
+44,Ecuador,Latin America and Caribbean,both,5.976,749,6.019,162,74,3,239,46.5,60.3,32.9,ECU,10424.26415
+45,Belize,Latin America and Caribbean,north,5.956,709,4.96,263,114,8,385,41.5,54.9,28.4,BLZ,7919.147241
+46,Japan,Eastern Asia,noth,5.921,907,38.972,77,202,16,295,57,71.3,43.7,JPN,38282.50467
+47,Kazakhstan,Central and Eastern Europe,north,5.919,797,7.715,124,246,12,382,39.9,54.3,27.2,KAZ,23447.0157
+48,Moldova,Central and Eastern Europe,north,5.897,697,1.913,109,226,18,353,66.6,79.6,54.8,MDA,4963.398344
+49,Russian Federation,Central and Eastern Europe,north,5.856,815,8.748,247,326,73,646,58.1,61.4,55.4,RUS,24416.62388
+50,Poland,Central and Eastern Europe,north,5.835,860,12.415,343,215,56,614,68,80.7,56.4,POL,26035.8379
+51,South Korea,Eastern Asia,noth,5.835,900,27.105,140,16,9,165,63.9,77,51.2,KOR,35020.41151
+52,Bolivia,Latin America and Caribbean,south,5.822,689,3.117,167,41,8,216,45.4,59.1,31.9,BOL,6707.956184
+53,Lithuania,Central and Eastern Europe,north,5.813,855,14.913,343,244,56,643,79.1,89.1,70.9,LTU,28033.87393
+54,Belarus,Central and Eastern Europe,north,5.802,805,5.023,142,373,42,557,73.6,79,69.2,BLR,16773.19355
+55,Slovenia,Central and Eastern Europe,north,5.768,894,21.65,270,51,276,597,13.5,19.7,7.3,SVN,29930.03704
+56,Peru,Latin America and Caribbean,both,5.743,748,6.031,163,160,21,344,53.2,67.1,39.6,PER,12082.16801
+57,Turkmenistan,Central and Eastern Europe,north,5.658,705,6.389,19,71,32,122,30.4,42.5,19,TKM,15648.37311
+58,Mauritius,Sub-Saharan Africa,north,5.648,788,9.682,98,31,18,147,31.2,43.4,19.5,MUS,19567.48966
+59,Latvia,Central and Eastern Europe,north,5.56,844,14.07,281,216,62,559,75,86.5,65.5,LVA,23743.25782
+60,Cyprus,Western Europe,north,5.546,867,23.541,192,154,113,459,68.8,80.6,56.6,CYP,31331.393
+61,Paraguay,Latin America and Caribbean,south,5.538,702,4.078,213,117,74,404,36,48.4,23.2,PRY,8871.37954
+62,Romania,Central and Eastern Europe,north,5.528,807,9.532,297,122,167,586,67.2,80.1,55.5,ROU,21670.70479
+63,Estonia,Central and Eastern Europe,north,5.517,868,17.737,224,194,59,477,72.8,84.9,62.6,EST,28109.81704
+64,Jamaica,Latin America and Caribbean,north,5.51,732,4.879,82,97,9,188,34.9,47.4,22.6,JAM,8179.62034
+65,Croatia,Central and Eastern Europe,north,5.488,828,12.299,230,87,254,571,59.7,73.9,46.8,HRV,21799.93281
+66,Turkey,Middle East and Northern Africa,north,5.389,787,10.863,51,22,7,80,6.9,11,3,TUR,23756.48429
+67,Jordan,Middle East and Northern Africa,north,5.303,735,4.088,6,21,1,28,3,4.5,1.4,JOR,8389.604574
+68,Azerbaijan,Central and Eastern Europe,north,5.291,757,3.881,21,46,5,72,21.9,31.6,12.8,AZE,16001.3234
+69,Philippines,Southeastern Asia,north,5.279,696,2.951,71,186,1,258,33.1,45.3,21,PHL,7233.206103
+70,China,Eastern Asia,noth,5.245,748,8.117,79,192,8,279,55.9,68.6,42.6,CHN,14400.88506
+71,Kyrgyzstan,Central and Eastern Europe,north,5.185,669,1.22,31,97,6,134,25.9,36.8,15.5,KGZ,3309.859929
+72,Serbia,Central and Eastern Europe,north,5.177,785,5.426,283,131,127,541,60,73.8,47,SRB,13720.89089
+73,Bosnia and Herzegovina,Central and Eastern Europe,north,5.163,766,4.809,76,173,8,257,47.9,62.1,34,BIH,11337.57026
+74,Montenegro,Central and Eastern Europe,north,5.161,810,7.029,31,114,128,273,54,68.2,40.4,MNE,15737.02492
+75,Dominican Republic,Latin America and Caribbean,north,5.155,733,6.794,193,147,9,349,43,56.7,29.7,DOM,14120.21164
+76,Morocco,Middle East and Northern Africa,north,5.151,662,2.893,12,6,10,28,2.6,3.9,1.3,MAR,7285.908321
+77,Hungary,Central and Eastern Europe,north,5.145,835,12.82,234,215,185,634,66.6,79.9,54.8,HUN,25664.136
+78,Lebanon,Middle East and Northern Africa,north,5.129,753,8.257,20,55,31,106,6.1,9.2,3,LBN,13267.8857
+79,Portugal,Western Europe,north,5.123,845,19.872,194,67,339,600,69.2,81.6,58.3,PRT,27124.15504
+80,Macedonia,Central and Eastern Europe,north,5.121,756,4.834,106,27,86,219,53.7,67.7,39.9,MKD,13120.87251
+81,Vietnam,Southeastern Asia,north,5.061,689,2.171,111,2,1,114,99.4,50,23.9,VNM,5837.628704
+82,Tunisia,Middle East and Northern Africa,north,5.045,732,3.689,51,3,20,74,5.2,8.9,1.6,TUN,10761.51453
+83,Greece,Western Europe,north,5.033,868,17.882,133,112,218,463,65.4,78.3,53.3,GRC,24211.74089
+84,Mongolia,Eastern Asia,noth,4.907,743,3.694,77,189,8,274,33.6,46.3,21.5,MNG,11361.00642
+85,Nigeria,Sub-Saharan Africa,north,4.875,530,2.176,42,5,2,49,52.6,67,37.7,NGA,5434.734795
+86,Honduras,Latin America and Caribbean,north,4.871,614,2.375,69,98,2,169,29.8,41.3,18.5,HND,4406.773532
+87,Zambia,Sub-Saharan Africa,south,4.795,586,1.263,32,19,4,55,27.3,38.3,16.5,ZMB,3652.151926
+88,Albania,Central and Eastern Europe,north,4.655,782,4.132,89,132,54,275,51,65,37.6,ALB,11356.34133
+89,Sierra Leone,Sub-Saharan Africa,north,4.635,413,481,25,3,2,30,30.9,43.1,19.2,SLE,1363.863571
+90,Namibia,Sub-Saharan Africa,south,4.574,645,4.561,376,3,1,380,30.3,42.4,19.1,NAM,9825.59927
+91,Cameroon,Sub-Saharan Africa,south,4.513,553,1.375,147,1,4,152,33.8,46.9,21.4,CMR,3346.817793
+92,South Africa,Sub-Saharan Africa,south,4.459,696,5.28,225,76,81,382,37.6,50.8,24.9,ZAF,12286.69712
+93,Egypt,Middle East and Northern Africa,north,4.362,694,3.548,6,4,1,11,2.8,4.2,1.4,EGY,10324.10114
+94,Armenia,Central and Eastern Europe,north,4.36,749,3.606,21,179,11,211,26,38,16.2,ARM,8190.239289
+95,Kenya,Sub-Saharan Africa,both,4.356,585,1.463,58,22,2,82,23.9,33.8,14,KEN,2926.532502
+96,Ukraine,Central and Eastern Europe,north,4.324,746,2.186,206,237,45,488,61.8,68.7,56.1,UKR,7668.055776
+97,Ghana,Sub-Saharan Africa,north,4.276,588,1.517,31,3,10,44,26,36.8,15.7,GHA,3982.769467
+98,Dem. Rep. Congo,Sub-Saharan Africa,south,4.272,452,1.712,32,3,1,36,36.4,49.2,23.8,COD,805.0642641
+99,Georgia,Central and Eastern Europe,north,4.252,776,3.866,52,100,149,301,35.1,48.9,23,GEO,9276.766245
+100,Rep. Congo,Sub-Saharan Africa,south,4.236,612,498,76,1,9,86,51.7,65.5,38,COG,5250.867608
+101,Senegal,Sub-Saharan Africa,north,4.219,499,953,9,1,7,17,21.1,30.4,12.5,SEN,2379.451264
+102,Bulgaria,Central and Eastern Europe,north,4.217,810,7.469,231,252,94,577,66,79.2,53.9,BGR,17794.54276
+103,Zimbabwe,Sub-Saharan Africa,south,4.193,532,1.029,64,18,4,86,17.6,25.7,10,ZWE,1879.628119
+104,Malawi,Sub-Saharan Africa,south,4.156,474,300,8,11,1,20,23.7,33.6,13.9,MWI,1083.801421
+105,Gabon,Sub-Saharan Africa,south,4.121,698,7.079,347,98,59,504,66.5,78.6,54.1,GAB,16756.69447
+106,Mali,Sub-Saharan Africa,north,4.073,421,780,5,1,1,7,21.9,31.1,12.8,MLI,1971.08448
+107,Haiti,Latin America and Caribbean,north,4.028,496,735,1,326,1,328,35.1,47.9,22.9,HTI,1654.170537
+108,Botswana,Sub-Saharan Africa,south,3.974,712,6.954,173,35,35,243,32,44,20,BWA,15727.1678
+109,Comoros,Sub-Saharan Africa,south,3.956,502,775,1,3,1,5,4.1,6.2,1.9,COM,1411.152339
+110,Cote d'Ivoire,Sub-Saharan Africa,north,3.916,486,1.535,37,1,7,45,38.5,52.3,24.1,CIV,3424.964021
+111,Cambodia,Southeastern Asia,north,3.907,576,1.27,57,65,1,123,30.9,43.2,19.6,KHM,3465.125565
+112,Angola,Sub-Saharan Africa,south,3.866,577,3.309,217,57,45,319,47.7,61.6,34.3,AGO,5972.451513
+113,Niger,Sub-Saharan Africa,north,3.856,351,368,3,2,1,6,20.2,28.8,11.7,NER,917.1401159
+114,Chad,Sub-Saharan Africa,north,3.763,405,651,15,1,1,17,22.4,31.7,13.1,TCD,1878.378483
+115,Burkina Faso,Sub-Saharan Africa,north,3.739,420,614,25,7,7,39,36.9,51.2,23.2,BFA,1642.322003
+116,Madagascar,Sub-Saharan Africa,south,3.695,517,402,26,15,4,45,20.9,30,12,MDG,1396.669615
+117,Tanzania,Sub-Saharan Africa,south,3.666,533,878,36,6,1,43,36.4,49.3,24,TZA,2583.589673
+118,Liberia,Sub-Saharan Africa,north,3.622,432,455,19,152,2,173,30.8,42.7,18.9,LBR,753.557379
+119,Benin,Sub-Saharan Africa,north,3.484,512,789,34,4,13,51,26.1,37,15.4,BEN,2009.618321
+120,Togo,Sub-Saharan Africa,north,3.303,500,577,36,2,19,57,25.7,36.5,15.2,TGO,1388.496142
+121,Syria,Middle East and Northern Africa,north,3.069,536,2.058,5,35,16,56,2,3.4,0.7,,
