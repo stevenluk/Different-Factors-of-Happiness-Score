@@ -110,7 +110,7 @@ function renderText(textGroup, newXScale, newYScale, chosenXAxis, chosenYAxis) {
         chosenYAxis === "GDP_percapita"
         label = "GDP per capita: ";
       }
-        return (`${d.Country}<br>${label}${d[chosenYAxis]}`);
+      return (`${d.Country}<br>Score: ${d[chosenXAxis]}<br> ${label} ${d[chosenYAxis]}`);
       });
     circlesGroup.call(toolTip);
     circlesGroup
@@ -280,7 +280,7 @@ d3.csv("alcoholconsumptionUPDATED.csv").then(function(csvData, err) {
 
         textGroup = renderText(textGroup, xLinearScale,yLinearScale,chosenXAxis,chosenYAxis);
 
-        // circlesGroup = updateToolTip(chosenXAxis, chosenYAxis, circlesGroup);
+        circlesGroup = updateToolTip(chosenXAxis, chosenYAxis, circlesGroup);
 
         if (chosenYAxis === "Total_Consumption") {
           consumptionLabel
