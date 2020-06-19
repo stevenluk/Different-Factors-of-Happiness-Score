@@ -1255,7 +1255,7 @@ if(id==="World"){
   var chartdata=[trace1];
 
   var layout={
-      title:"Hapiness Score",
+      title:"Happiness Score",
       yaxis:{
         automargin:true,
       }
@@ -1292,7 +1292,7 @@ else if(id==="Western_Europe"){
   var chartdata=[trace1];
 
   var layout={
-      title:"Hapiness Score",
+      title:"Happiness Score",
       yaxis:{
         automargin:true,
       }
@@ -1329,7 +1329,7 @@ else if(id==="North_America"){
   var chartdata=[trace1];
 
   var layout={
-      title:"Hapiness Score",
+      title:"Happiness Score",
       yaxis:{
         automargin:true,
       }
@@ -1366,7 +1366,7 @@ else if(id==="Australia_and_New_Zealand"){
   var chartdata=[trace1];
 
   var layout={
-      title:"Hapiness Score",
+      title:"Happiness Score",
       yaxis:{
         automargin:true,
       }
@@ -1403,7 +1403,7 @@ else if(id==="Middle_East_and_Northern_Africa"){
   var chartdata=[trace1];
 
   var layout={
-      title:"Hapiness Score",
+      title:"Happiness Score",
       yaxis:{
         automargin:true,
       }
@@ -1440,7 +1440,7 @@ else if(id==="Latin_America_and_Caribbean"){
   var chartdata=[trace1];
 
   var layout={
-      title:"Hapiness Score",
+      title:"Happiness Score",
       yaxis:{
         automargin:true,
       }
@@ -1477,7 +1477,7 @@ else if(id==="Southeastern_Asia"){
   var chartdata=[trace1];
 
   var layout={
-      title:"Hapiness Score",
+      title:"Happiness Score",
       yaxis:{
         automargin:true,
       }
@@ -1514,7 +1514,7 @@ else if(id==="Central_and_Eastern_Europe"){
   var chartdata=[trace1];
 
   var layout={
-      title:"Hapiness Score",
+      title:"Happiness Score",
       yaxis:{
         automargin:true,
       }
@@ -1551,7 +1551,7 @@ else if(id==="Eastern_Asia"){
   var chartdata=[trace1];
 
   var layout={
-      title:"Hapiness Score",
+      title:"Happiness Score",
       yaxis:{
         automargin:true,
       }
@@ -1588,7 +1588,7 @@ else {
   var chartdata=[trace1];
 
   var layout={
-      title:"Hapiness Score",
+      title:"Happiness Score",
       yaxis:{
         automargin:true,
       }
@@ -1645,7 +1645,7 @@ var data = [
 	{
 		domain: { x: [0, 1], y: [0, 1] },
 		value: level,
-		title: { text: "Hapiness Score" },
+		title: { text: "Happiness Score" },
 		type: "indicator",
 		mode: "gauge+number"
 	}
