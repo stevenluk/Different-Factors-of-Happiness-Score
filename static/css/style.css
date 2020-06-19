@@ -1,0 +1,78 @@
+.iframeContainer {
+  padding: 20px;
+  border: 1px solid #e3e3e3;
+}
+
+html {
+  position: relative;
+  min-height: 100%;
+}
+
+h1{
+  margin-left:100px;
+  margin-right:auto;
+}
+
+img{
+  margin-left:auto;
+  margin-top:0;
+  height:400px;
+  width:100%;
+}
+
+body {
+  padding-bottom: 80px;
+}
+
+.tooltip{
+  position: absolute;
+  width: 135px;
+  height: 60px;
+  padding: 2px;
+  padding-top: 8px;
+  font: 12px sans-serif;
+  color: white;
+  text-align: center;
+  background: black;
+  border: 0;
+  border-radius: 10px;
+} 
+
+
+
+#footer {
+  position: absolute;
+  bottom: 0;
+  width: 100%; /* Set the fixed height of the footer here */
+  height: 10px;
+  padding-top: 20px;
+  padding-bottom: 40px;
+  text-align: center;
+  background-color: #19f8da;
+}
+
+#footer p {
+  margin: 0;
+  font-size: 16px;
+}
+
+.tooltip2 {
+  position: absolute;
+  width: 135px;
+  height: 60px;
+  padding: 2px;
+  padding-top: 10px;
+  font: 10px sans-serif;
+  color: rgb(252, 248, 248);
+  text-align: center;
+  background: #1aaf8a;
+  border: 0;
+  border-radius: 10px;
+} 
+
+.axisText {
+  font-family: sans-serif;
+  font-weight: bold;
+  fill: #1aaf8a;
+  text-anchor: middle;
+}
