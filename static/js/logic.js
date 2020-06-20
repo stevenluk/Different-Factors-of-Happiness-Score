@@ -20,7 +20,7 @@ function line_coordinates(x,y){
       lr['intercept'] = (sum_y - lr.slope * sum_x)/n;
       lr['r2'] = Math.pow((n*sum_xy - sum_x*sum_y)/Math.sqrt((n*sum_xx-sum_x*sum_x)*(n*sum_yy-sum_y*sum_y)),2);
 
-//      console.log(lr['r2']);
+      console.log(lr['r2']);
 
       lr["x1"]=d3.min(x)
       lr["y1"]=lr["intercept"]+lr["slope"]*lr["x1"]

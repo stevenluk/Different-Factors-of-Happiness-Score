@@ -35,7 +35,7 @@ var chartGroup = svg.append("g")
 
   // global variable, creating the scale
   var chosenXAxis = "HappinessScore";
-  var chosenYAxis = "Total_Consumption";
+  var chosenYAxis = "HDI";
 
   // updating the x-scale
   function xScale(csvData, chosenXAxis) {
@@ -102,8 +102,8 @@ function renderText(textGroup, newXScale, newYScale, chosenXAxis, chosenYAxis) {
     .attr("class", "tooltip")
     .offset([80,-60])
     .html(function(d) {
-      if (chosenYAxis === "Total_Consumption") {
-        label = "Total Consumption: ";
+      if (chosenYAxis === "HDI") {
+        label = "HDI: ";
 
       }
       else {
@@ -132,7 +132,7 @@ d3.csv("alcoholconsumptionUPDATED.csv").then(function(csvData, err) {
   csvData.forEach(function(data) {
     data.HappinessScore = +data.HappinessScore;
 
-    data.Total_Consumption = +data.Total_Consumption;
+    data.HDI = +data.HDI;
     data.GDP_per_capita = +data.GDP_per_capita;
 
     data.Country = data.Country;
@@ -202,9 +202,9 @@ d3.csv("alcoholconsumptionUPDATED.csv").then(function(csvData, err) {
   var consumptionLabel = ylabelsGroup.append("text")
     .attr("x",0)
     .attr("y",5)
-    .attr("value", "Total_Consumption")
+    .attr("value", "HDI")
     .classed("active", true)
-    .text("Total Alcohol Consumption (liter)");
+    .text("HDI");
 
   var xlabelsGroup = chartGroup.append("g")
   .attr("transform", `translate(${chartWidth / 2}, ${chartHeight + 20})`);
@@ -282,7 +282,7 @@ d3.csv("alcoholconsumptionUPDATED.csv").then(function(csvData, err) {
 
         circlesGroup = updateToolTip(chosenXAxis, chosenYAxis, circlesGroup);
 
-        if (chosenYAxis === "Total_Consumption") {
+        if (chosenYAxis === "HDI") {
           consumptionLabel
             .classed("active", true)
             .classed("inactive", false);
